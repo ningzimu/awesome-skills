@@ -4,6 +4,16 @@
 
 一份少而精的 Agent Skills 与配套工具精选清单。
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![skills.sh](https://skills.sh/b/ningzimu/awesome-skills)](https://skills.sh/ningzimu/awesome-skills) [![GitHub stars](https://img.shields.io/github/stars/ningzimu/awesome-skills?style=flat&logo=github&label=stars)](https://github.com/ningzimu/awesome-skills/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ningzimu/awesome-skills?style=flat&logo=github&label=forks)](https://github.com/ningzimu/awesome-skills/forks)
+
+## 不想每次自己挑 Skill？
+
+把下面这句话发给你的 AI：
+
+> 请安装这个 Skill：https://github.com/ningzimu/awesome-skills/tree/main/skills/awesome-skills
+
+装好以后，遇到新任务时，它会先看这份清单，再自己判断有没有合适的 Skill 可以装和使用。你不用每次翻列表，也不用自己比较哪个更合适。
+
 ## 导航
 
 - [Skill 生态](#skill-生态)
@@ -17,6 +27,8 @@
 - [PPT 与演示文稿](#ppt-与演示文稿)
 
 ## Skill 生态
+
+- **[Awesome Skills](skills/awesome-skills)** — 按任务需要读取实时清单，发现并安装专用能力的元 Skill。
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — 将文档、代码仓库、OpenAPI 规范和 PDF 编译为 `SKILL.md` 与 references，帮助快速构建 Agent Skill。
 

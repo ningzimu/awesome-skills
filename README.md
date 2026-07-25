@@ -4,6 +4,16 @@ English | [简体中文](README.zh-CN.md)
 
 A concise, curated list of useful Agent Skills and companion tools.
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![skills.sh](https://skills.sh/b/ningzimu/awesome-skills)](https://skills.sh/ningzimu/awesome-skills) [![GitHub stars](https://img.shields.io/github/stars/ningzimu/awesome-skills?style=flat&logo=github&label=stars)](https://github.com/ningzimu/awesome-skills/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ningzimu/awesome-skills?style=flat&logo=github&label=forks)](https://github.com/ningzimu/awesome-skills/forks)
+
+## Tired of picking skills yourself?
+
+Send this to your AI:
+
+> Install this skill: https://github.com/ningzimu/awesome-skills/tree/main/skills/awesome-skills
+
+After that, when a new task comes up, it checks this list and decides whether there is a useful skill to install and use. You do not need to browse the list or compare options every time.
+
 ## Navigation
 
 - [Skill Ecosystem](#skill-ecosystem)
@@ -17,6 +27,8 @@ A concise, curated list of useful Agent Skills and companion tools.
 - [Presentations](#presentations)
 
 ## Skill Ecosystem
+
+- **[Awesome Skills](skills/awesome-skills)** — A meta-skill that checks the live list to discover and install specialist capabilities as tasks require them.
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — Compiles documentation, repositories, OpenAPI specifications, and PDFs into `SKILL.md` files and references.
 

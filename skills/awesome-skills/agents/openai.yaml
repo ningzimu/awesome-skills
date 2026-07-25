@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome Skills"
+  short_description: "Discover and install relevant specialist skills."
+  default_prompt: "Use $awesome-skills to find and install a suitable skill for this task."
