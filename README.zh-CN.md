@@ -70,6 +70,8 @@
 
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — 帮助 AI Agent 连接并检索多个公开信息源，适合跨平台搜索、资料收集与深度研究。
 
+- **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** — 为 Agent 工作流抓取公开 X 推文、X Article、回复、互动数据和微信公众号文章。
+
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — 研究 Reddit、X、YouTube、Hacker News 和 Web 上的近期讨论，并综合为有依据的摘要。
 
 - **[AI HOT](https://aihot.virxact.com/agent)** — 聚合 AI 行业资讯并生成日报，方便 Agent 获取和整理最新动态。

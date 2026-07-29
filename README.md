@@ -70,6 +70,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Connects AI agents to multiple information sources for cross-platform search, research, and content retrieval.
 
+- **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** — Fetches public X posts, X Articles, replies, engagement data, and WeChat Official Account articles for agent workflows.
+
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — Researches recent discussions across Reddit, X, YouTube, Hacker News, and the web, then synthesizes a grounded summary.
 
 - **[AI HOT](https://aihot.virxact.com/agent)** — Aggregates AI industry news and produces daily briefings for agents.
