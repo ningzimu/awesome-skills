@@ -22,6 +22,7 @@
 - [自动化与效率](#自动化与效率)
 - [Obsidian](#obsidian)
 - [写作与发布](#写作与发布)
+- [多模态与视觉理解](#多模态与视觉理解)
 - [图像与视觉设计](#图像与视觉设计)
 - [视频与动态内容](#视频与动态内容)
 - [PPT 与演示文稿](#ppt-与演示文稿)
@@ -106,6 +107,10 @@
 
 - **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — 将编码 Agent 连接到 Telegram、Discord 和飞书，支持远程对话。
 
+## 多模态与视觉理解
+
+- **[liustack/modlens](https://github.com/liustack/modlens)** — 通过可插拔的视觉模型为纯文本编码 Agent 补充图片理解能力，支持粘贴图片、本地文件和图片 URL，并输出结构化的 OCR、版面、语义及不确定项。
+
 ## 图像与视觉设计
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — 为文章、概念解释和社交媒体封面生成中文手绘技术配图。
@@ -139,6 +144,8 @@
 - **[JimLiu/baocut](https://github.com/JimLiu/baocut)** — 通过 BaoCut 驱动转录、字幕、翻译和视频剪辑工作流。
 
 - **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — 为 Seedance 2.0 视频生成创建结构化提示词。
+
+- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — 一套面向 Seedance 2.0 的模块化导演工作流，覆盖分镜、运镜、灯光、表演、声音、多镜头连续性、平台适配及系统化失败诊断。
 
 - **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — 在本地完成下载、转写、翻译、润色和字幕烧录，将外语视频制作为中文字幕视频。
 

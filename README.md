@@ -22,6 +22,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 - [Automation & Productivity](#automation--productivity)
 - [Obsidian](#obsidian)
 - [Writing & Publishing](#writing--publishing)
+- [Multimodal & Vision](#multimodal--vision)
 - [Image & Visual Design](#image--visual-design)
 - [Video & Motion](#video--motion)
 - [Presentations](#presentations)
@@ -106,6 +107,10 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — Bridges coding agents to Telegram, Discord, and Feishu/Lark for remote conversations.
 
+## Multimodal & Vision
+
+- **[liustack/modlens](https://github.com/liustack/modlens)** — Adds image understanding to text-only coding agents through pluggable vision providers, supporting pasted images, local files, and image URLs with structured OCR, layout, semantics, and uncertainty output.
+
 ## Image & Visual Design
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — Generates Chinese hand-drawn technical illustrations for articles, explanations, and social covers.
@@ -139,6 +144,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[JimLiu/baocut](https://github.com/JimLiu/baocut)** — Drives transcription, subtitles, translation, and video-cutting workflows through BaoCut.
 
 - **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — Creates structured prompts for Seedance 2.0 video generation.
+
+- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — A modular director workflow for Seedance 2.0, covering storyboards, camera movement, lighting, performance, sound, multi-shot continuity, platform adaptation, and systematic failure diagnosis.
 
 - **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — Turns foreign-language videos into Chinese-subtitled videos locally through downloading, transcription, translation, polishing, and subtitle burn-in.
 
