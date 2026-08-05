@@ -22,6 +22,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 - [Automation & Productivity](#automation--productivity)
 - [Obsidian](#obsidian)
 - [Writing & Publishing](#writing--publishing)
+- [Multimodal & Vision](#multimodal--vision)
 - [Image & Visual Design](#image--visual-design)
 - [Video & Motion](#video--motion)
 - [Presentations](#presentations)
@@ -105,6 +106,10 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[leeguooooo/Mailbox](https://github.com/leeguooooo/Mailbox)** — Provides CLI-first email management with multi-account support, local sync, and interfaces for agents.
 
 - **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — Bridges coding agents to Telegram, Discord, and Feishu/Lark for remote conversations.
+
+## Multimodal & Vision
+
+- **[liustack/modlens](https://github.com/liustack/modlens)** — Adds image understanding to text-only coding agents through pluggable vision providers, supporting pasted images, local files, and image URLs with structured OCR, layout, semantics, and uncertainty output.
 
 ## Image & Visual Design
 
