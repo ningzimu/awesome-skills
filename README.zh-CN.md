@@ -145,6 +145,8 @@
 
 - **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — 为 Seedance 2.0 视频生成创建结构化提示词。
 
+- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — 一套面向 Seedance 2.0 的模块化导演工作流，覆盖分镜、运镜、灯光、表演、声音、多镜头连续性、平台适配及系统化失败诊断。
+
 - **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — 在本地完成下载、转写、翻译、润色和字幕烧录，将外语视频制作为中文字幕视频。
 
 - **[MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill)** — 通过基于 `yt-dlp` 的 Agent 工作流下载视频。
