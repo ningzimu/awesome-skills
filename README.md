@@ -92,6 +92,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — A Chinese-language adaptation that reduces formulaic AI writing patterns.
 
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — A general Chinese writing and revision skill that separates factual and fictional workflows, then improves structure, pacing, and natural phrasing.
+
 - **[jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown)** — Captures WeChat Official Account articles and converts them to Markdown.
 
 - **[imraywang/wewrite](https://github.com/imraywang/wewrite)** — Runs a WeChat Official Account workflow from topic research and writing through editing, layout, and draft delivery.

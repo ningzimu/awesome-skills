@@ -92,6 +92,8 @@
 
 - **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — 面向中文内容的去 AI 味工具，帮助减少模板化表达并改善行文自然度。
 
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — 一套通用中文创作与改稿 Skill，区分现实与虚构写作流程，并改善结构、节奏和自然表达。
+
 - **[jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown)** — 将微信公众号文章转换为 Markdown，便于归档、编辑和知识库整理。
 
 - **[imraywang/wewrite](https://github.com/imraywang/wewrite)** — 覆盖公众号选题、素材、写作、审稿、排版和草稿交付的内容工作流。
