@@ -22,6 +22,7 @@
 - [自动化与效率](#自动化与效率)
 - [Obsidian](#obsidian)
 - [写作与发布](#写作与发布)
+- [多模态与视觉理解](#多模态与视觉理解)
 - [图像与视觉设计](#图像与视觉设计)
 - [视频与动态内容](#视频与动态内容)
 - [PPT 与演示文稿](#ppt-与演示文稿)
@@ -105,6 +106,10 @@
 - **[leeguooooo/Mailbox](https://github.com/leeguooooo/Mailbox)** — 提供 CLI 优先的多账号邮件管理、本地同步和 Agent 调用接口。
 
 - **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — 将编码 Agent 连接到 Telegram、Discord 和飞书，支持远程对话。
+
+## 多模态与视觉理解
+
+- **[liustack/modlens](https://github.com/liustack/modlens)** — 通过可插拔的视觉模型为纯文本编码 Agent 补充图片理解能力，支持粘贴图片、本地文件和图片 URL，并输出结构化的 OCR、版面、语义及不确定项。
 
 ## 图像与视觉设计
 
