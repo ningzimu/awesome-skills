@@ -145,6 +145,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — Creates structured prompts for Seedance 2.0 video generation.
 
+- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — A modular director workflow for Seedance 2.0, covering storyboards, camera movement, lighting, performance, sound, multi-shot continuity, platform adaptation, and systematic failure diagnosis.
+
 - **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — Turns foreign-language videos into Chinese-subtitled videos locally through downloading, transcription, translation, polishing, and subtitle burn-in.
 
 - **[MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill)** — Downloads videos through an agent workflow built around `yt-dlp`.
