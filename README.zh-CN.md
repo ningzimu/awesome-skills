@@ -45,6 +45,10 @@
 
 - **[tanweai/pua](https://github.com/tanweai/pua)** — 结合持续推进提示、系统化调试和主动执行的高能动性编码工作流。
 
+### 软件工程工作流
+
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — 一套可组合的软件工程工作流 Skills，覆盖需求澄清、规格与任务拆解、TDD 实现、系统化调试、并行代码审查、架构优化、技术调研及跨会话交接。
+
 ### 前端与 UI
 
 - **[Vercel Web Design Guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** — 按最新界面规范审查网页 UI，覆盖可访问性和 UX 最佳实践。
