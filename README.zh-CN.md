@@ -37,6 +37,8 @@
 
 - **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** — 面向上下文工程、多智能体架构和生产级 Agent 系统的 Skills 集合。
 
+- **[SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)** — 通过 MuAPI 模型与工作流，让 Agent 生成图片、视频、音频和社媒内容的多模态 Skills 集合。
+
 - **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — 用于发现和安装 Agent Skills 的开放工具。
 
 ## 编码与开发
@@ -144,6 +146,8 @@
 ### 剪辑与后期
 
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — 让编码 Agent 把原始素材剪成成片，支持剪辑、字幕、去口头禅和调色。
+
+- **[Agentchengfeng/chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills)** — 面向 Codex 与 Claude Code 的中文口播视频工作流，覆盖粗剪、字幕、配图、导出和人工复核。
 
 - **[ChatCut-Inc/agent-plugin](https://github.com/ChatCut-Inc/agent-plugin)** — 通过 MCP 将 Codex 与 Claude Code 连接到 ChatCut，支持时间线编辑、MG 动效、素材生成、转录、字幕、导出和编辑器内结果验证。
 

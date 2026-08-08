@@ -37,6 +37,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** — A collection of skills for context engineering, multi-agent architectures, and production agent systems.
 
+- **[SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)** — A multimodal skill collection for agent-driven image, video, audio, and social-content generation through MuAPI models and workflows.
+
 - **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — An open tool for discovering and installing agent skills.
 
 ## Coding & Development
@@ -144,6 +146,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 ### Editing & Post-Production
 
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — Uses coding agents to turn raw footage into finished videos with editing, subtitles, filler-word removal, and color grading.
+
+- **[Agentchengfeng/chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills)** — A Chinese-first talking-head video workflow for Codex and Claude Code, covering rough cuts, subtitles, visuals, export, and human review.
 
 - **[ChatCut-Inc/agent-plugin](https://github.com/ChatCut-Inc/agent-plugin)** — Connects Codex and Claude Code to ChatCut through MCP for timeline editing, motion graphics, asset generation, transcription, captions, export, and in-editor verification.
 
