@@ -47,10 +47,6 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[tanweai/pua](https://github.com/tanweai/pua)** — A high-agency coding workflow that combines persistence prompts, systematic debugging, and proactive execution.
 
-### Software Engineering Workflows
-
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** — A composable software-engineering workflow collection covering requirements clarification, specifications and ticket breakdown, TDD implementation, systematic debugging, parallel code review, architecture improvement, research, and cross-session handoffs.
-
 ### Frontend & UI
 
 - **[Vercel Web Design Guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** — Reviews web UI against current interface guidelines, including accessibility and UX best practices.
@@ -72,6 +68,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)** — Spec-Driven Development for AI coding assistants.
 
 - **[obra/superpowers](https://github.com/obra/superpowers)** — An Agentic Skills framework and software development methodology.
+
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — A composable software-engineering workflow collection covering requirements clarification, specifications and ticket breakdown, TDD implementation, systematic debugging, parallel code review, architecture improvement, research, and cross-session handoffs.
 
 ## Research & Intelligence
 
