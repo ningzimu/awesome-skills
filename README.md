@@ -137,6 +137,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — Uses coding agents to turn raw footage into finished videos with editing, subtitles, filler-word removal, and color grading.
 
+- **[liuluhaixiu/DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent)** — Provides approval-gated Codex skills for analyzing footage, drafting scripts and edit blueprints, and building and auditing DaVinci Resolve timelines through Resolve MCP or its Python API.
+
 - **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — Agent skills for producing mathematical and educational animations with Manim.
 
 - **[fabriqaai/ffmpeg-analyse-video-skill](https://github.com/fabriqaai/ffmpeg-analyse-video-skill)** — Extracts video frames with FFmpeg and uses AI vision to produce timestamped content summaries.

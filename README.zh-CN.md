@@ -137,6 +137,8 @@
 
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — 让编码 Agent 把原始素材剪成成片，支持剪辑、字幕、去口头禅和调色。
 
+- **[liuluhaixiu/DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent)** — 提供带人工确认门禁的 Codex Skills，用于分析素材、生成文案与剪辑蓝图，并通过 Resolve MCP 或 Python API 构建和审计 DaVinci Resolve 时间线。
+
 - **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — 用 Manim 制作数学和知识讲解动画的 Agent Skills。
 
 - **[fabriqaai/ffmpeg-analyse-video-skill](https://github.com/fabriqaai/ffmpeg-analyse-video-skill)** — 用 FFmpeg 抽取视频帧，并结合 AI 视觉生成带时间戳的内容摘要。
