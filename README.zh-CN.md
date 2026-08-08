@@ -129,29 +129,43 @@
 
 ## 视频与动态内容
 
+### 制作框架与工作流
+
 - **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — 让 Agent 用 HTML、CSS 和 JavaScript 制作视频，并稳定渲染为 MP4。
 
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — 一套 Agentic 视频生产系统，覆盖调研、脚本、素材生成、剪辑和合成等生产流程、工具与 Skills。
 
+- **[Pluviobyte/rnskill](https://github.com/Pluviobyte/rnskill)** — 一套面向 Codex 与 Claude Code、可相互串联的中文优先 Skills，将选题策划、脚本、配音、剪辑、动效、字幕和质检组成端到端 AI 视频工作流。
+
 - **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — 用于通过 React 与 Remotion 制作模板化、代码驱动视频的 Skills。
+
+### 剪辑与后期
 
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — 让编码 Agent 把原始素材剪成成片，支持剪辑、字幕、去口头禅和调色。
 
+- **[ChatCut-Inc/agent-plugin](https://github.com/ChatCut-Inc/agent-plugin)** — 通过 MCP 将 Codex 与 Claude Code 连接到 ChatCut，支持时间线编辑、MG 动效、素材生成、转录、字幕、导出和编辑器内结果验证。
+
 - **[liuluhaixiu/DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent)** — 提供带人工确认门禁的 Codex Skills，用于分析素材、生成文案与剪辑蓝图，并通过 Resolve MCP 或 Python API 构建和审计 DaVinci Resolve 时间线。
 
-- **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — 用 Manim 制作数学和知识讲解动画的 Agent Skills。
+- **[JimLiu/baocut](https://github.com/JimLiu/baocut)** — 通过 BaoCut 驱动转录、字幕、翻译和视频剪辑工作流。
 
-- **[fabriqaai/ffmpeg-analyse-video-skill](https://github.com/fabriqaai/ffmpeg-analyse-video-skill)** — 用 FFmpeg 抽取视频帧，并结合 AI 视觉生成带时间戳的内容摘要。
+### 动效、动画与生成式视频
+
+- **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — 用 Manim 制作数学和知识讲解动画的 Agent Skills。
 
 - **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — 基于 Remotion 的 AI 视频制作 Skill，覆盖电影感产品视频的镜头配方、动态预览、分镜、节奏和音效指导。
 
 - **[geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director)** — 将文章、产品、网站和 README 转化为中文优先的动态视频制作流程。
 
-- **[JimLiu/baocut](https://github.com/JimLiu/baocut)** — 通过 BaoCut 驱动转录、字幕、翻译和视频剪辑工作流。
-
 - **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — 为 Seedance 2.0 视频生成创建结构化提示词。
 
+- **[songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)** — 为 Seedance 2.0 生成可直接使用的中文提示词，覆盖多模态参考、运镜与特效复刻、视频延长、编辑和卡点同步。
+
 - **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — 一套面向 Seedance 2.0 的模块化导演工作流，覆盖分镜、运镜、灯光、表演、声音、多镜头连续性、平台适配及系统化失败诊断。
+
+### 分析与实用工具
+
+- **[fabriqaai/ffmpeg-analyse-video-skill](https://github.com/fabriqaai/ffmpeg-analyse-video-skill)** — 用 FFmpeg 抽取视频帧，并结合 AI 视觉生成带时间戳的内容摘要。
 
 - **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — 在本地完成下载、转写、翻译、润色和字幕烧录，将外语视频制作为中文字幕视频。
 

@@ -129,29 +129,43 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Video & Motion
 
+### Production Frameworks & Workflows
+
 - **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Lets agents create videos with HTML, CSS, and JavaScript, then deterministically render them to MP4.
 
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — An agentic video-production system with production pipelines, tools, and skills for research, scripting, asset creation, editing, and compositing.
 
+- **[Pluviobyte/rnskill](https://github.com/Pluviobyte/rnskill)** — A Chinese-first collection of interconnected skills for Codex and Claude Code, forming an end-to-end AI video workflow from planning and scripting through voice, editing, motion, subtitles, and quality control.
+
 - **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — Skills for creating template-driven and programmatic videos with React and Remotion.
+
+### Editing & Post-Production
 
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — Uses coding agents to turn raw footage into finished videos with editing, subtitles, filler-word removal, and color grading.
 
+- **[ChatCut-Inc/agent-plugin](https://github.com/ChatCut-Inc/agent-plugin)** — Connects Codex and Claude Code to ChatCut through MCP for timeline editing, motion graphics, asset generation, transcription, captions, export, and in-editor verification.
+
 - **[liuluhaixiu/DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent)** — Provides approval-gated Codex skills for analyzing footage, drafting scripts and edit blueprints, and building and auditing DaVinci Resolve timelines through Resolve MCP or its Python API.
 
-- **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — Agent skills for producing mathematical and educational animations with Manim.
+- **[JimLiu/baocut](https://github.com/JimLiu/baocut)** — Drives transcription, subtitles, translation, and video-cutting workflows through BaoCut.
 
-- **[fabriqaai/ffmpeg-analyse-video-skill](https://github.com/fabriqaai/ffmpeg-analyse-video-skill)** — Extracts video frames with FFmpeg and uses AI vision to produce timestamped content summaries.
+### Motion, Animation & Generative Video
+
+- **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — Agent skills for producing mathematical and educational animations with Manim.
 
 - **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — A Remotion-based AI video skill for cinematic product videos, with shot recipes, motion previews, storyboarding, pacing, and sound-design guidance.
 
 - **[geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director)** — Directs Chinese-first motion-video production from articles, products, websites, and README files.
 
-- **[JimLiu/baocut](https://github.com/JimLiu/baocut)** — Drives transcription, subtitles, translation, and video-cutting workflows through BaoCut.
-
 - **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — Creates structured prompts for Seedance 2.0 video generation.
 
+- **[songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)** — Generates production-ready Chinese prompts for Seedance 2.0, covering multimodal references, camera and effects replication, video extension, editing, and beat synchronization.
+
 - **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — A modular director workflow for Seedance 2.0, covering storyboards, camera movement, lighting, performance, sound, multi-shot continuity, platform adaptation, and systematic failure diagnosis.
+
+### Analysis & Utilities
+
+- **[fabriqaai/ffmpeg-analyse-video-skill](https://github.com/fabriqaai/ffmpeg-analyse-video-skill)** — Extracts video frames with FFmpeg and uses AI vision to produce timestamped content summaries.
 
 - **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — Turns foreign-language videos into Chinese-subtitled videos locally through downloading, transcription, translation, polishing, and subtitle burn-in.
 
