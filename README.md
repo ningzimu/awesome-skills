@@ -81,6 +81,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[AI HOT](https://aihot.virxact.com/agent)** — Aggregates AI industry news and produces daily briefings for agents.
 
+- **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — Runs a forkable 24-hour AI news radar with source-quality scoring, deduplication, story merging, GitHub Actions, a live web UI, and installable skills for briefings and source curation.
+
 ## Automation & Productivity
 
 - **[browserwing/browserwing](https://github.com/browserwing/browserwing)** — Records browser actions as MCP commands or Claude Skills for repeatable browser automation.
@@ -144,6 +146,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — Uses coding agents to turn raw footage into finished videos with editing, subtitles, filler-word removal, and color grading.
 
 - **[ChatCut-Inc/agent-plugin](https://github.com/ChatCut-Inc/agent-plugin)** — Connects Codex and Claude Code to ChatCut through MCP for timeline editing, motion graphics, asset generation, transcription, captions, export, and in-editor verification.
+
+- **[0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)** — An independent, open-source, local-first AI video editor with a professional multitrack timeline, Agent Skills, MCP control, editable motion graphics, and Remotion-based export.
 
 - **[liuluhaixiu/DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent)** — Provides approval-gated Codex skills for analyzing footage, drafting scripts and edit blueprints, and building and auditing DaVinci Resolve timelines through Resolve MCP or its Python API.
 

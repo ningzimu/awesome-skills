@@ -81,6 +81,8 @@
 
 - **[AI HOT](https://aihot.virxact.com/agent)** — 聚合 AI 行业资讯并生成日报，方便 Agent 获取和整理最新动态。
 
+- **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — 一套可 fork 的 24 小时 AI 资讯雷达，结合信源质量评估、去重与故事合并、GitHub Actions、网页界面，以及用于读报和维护信源的可安装 Skills。
+
 ## 自动化与效率
 
 - **[browserwing/browserwing](https://github.com/browserwing/browserwing)** — 将浏览器操作录制为 MCP 命令或 Claude Skills，适合可重复的浏览器自动化。
@@ -144,6 +146,8 @@
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — 让编码 Agent 把原始素材剪成成片，支持剪辑、字幕、去口头禅和调色。
 
 - **[ChatCut-Inc/agent-plugin](https://github.com/ChatCut-Inc/agent-plugin)** — 通过 MCP 将 Codex 与 Claude Code 连接到 ChatCut，支持时间线编辑、MG 动效、素材生成、转录、字幕、导出和编辑器内结果验证。
+
+- **[0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)** — 一款独立开源、本地优先的 AI 视频编辑器，提供专业多轨时间线、Agent Skills、MCP 控制、可编辑 MG 动效和基于 Remotion 的导出。
 
 - **[liuluhaixiu/DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent)** — 提供带人工确认门禁的 Codex Skills，用于分析素材、生成文案与剪辑蓝图，并通过 Resolve MCP 或 Python API 构建和审计 DaVinci Resolve 时间线。
 
