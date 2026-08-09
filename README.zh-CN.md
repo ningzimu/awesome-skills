@@ -171,6 +171,8 @@
 
 ### 分析与实用工具
 
+- **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — 从视频链接或本地文件提取带时间戳的画面与转录，让 Agent 基于音画证据进行摘要和问答。
+
 - **[fabriqaai/ffmpeg-analyse-video-skill](https://github.com/fabriqaai/ffmpeg-analyse-video-skill)** — 用 FFmpeg 抽取视频帧，并结合 AI 视觉生成带时间戳的内容摘要。
 
 - **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — 在本地完成下载、转写、翻译、润色和字幕烧录，将外语视频制作为中文字幕视频。

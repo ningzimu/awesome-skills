@@ -171,6 +171,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ### Analysis & Utilities
 
+- **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — Gives agents video understanding by extracting timestamped frames and transcripts from URLs or local files for grounded summaries and questions.
+
 - **[fabriqaai/ffmpeg-analyse-video-skill](https://github.com/fabriqaai/ffmpeg-analyse-video-skill)** — Extracts video frames with FFmpeg and uses AI vision to produce timestamped content summaries.
 
 - **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — Turns foreign-language videos into Chinese-subtitled videos locally through downloading, transcription, translation, polishing, and subtitle burn-in.
