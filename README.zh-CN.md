@@ -117,6 +117,8 @@
 
 - **[liustack/modlens](https://github.com/liustack/modlens)** — 通过可插拔的视觉模型为纯文本编码 Agent 补充图片理解能力，支持粘贴图片、本地文件和图片 URL，并输出结构化的 OCR、版面、语义及不确定项。
 
+- **[QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)** — Qwen 官方多模态 Agent Skills 与 MCP Servers，覆盖图片、视频、文档和 3D 理解，以及 OCR、目标定位、长视频记忆、原生音视频分析、媒体生成与编辑、Blender、FreeCAD 和讲题视频工作流。
+
 ## 图像与视觉设计
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — 为文章、概念解释和社交媒体封面生成中文手绘技术配图。
