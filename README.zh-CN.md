@@ -119,6 +119,8 @@
 
 - **[QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)** — Qwen 官方多模态 Agent Skills 与 MCP Servers，覆盖图片、视频、文档和 3D 理解，以及 OCR、目标定位、长视频记忆、原生音视频分析、媒体生成与编辑、Blender、FreeCAD 和讲题视频工作流。
 
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** — 将单张参考图重建为可编辑的程序化 Three.js 3D 模型，通过细节清单、分阶段生成、严格质量门禁和视觉对比评审提高几何、材质与外观还原度。
+
 ## 图像与视觉设计
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — 为文章、概念解释和社交媒体封面生成中文手绘技术配图。
