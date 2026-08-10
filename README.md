@@ -119,6 +119,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)** — Official multimodal Agent Skills and MCP servers for Qwen models, covering image, video, document, and 3D understanding, OCR, grounding, long-video memory, native audio-video analysis, media generation and editing, Blender, FreeCAD, and educational explainer workflows.
 
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** — Reconstructs a single reference image as an editable procedural Three.js 3D model, using detail inventories, staged generation, strict quality gates, and visual comparison reviews to improve geometry, material, and appearance fidelity.
+
 ## Image & Visual Design
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — Generates Chinese hand-drawn technical illustrations for articles, explanations, and social covers.
