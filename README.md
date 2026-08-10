@@ -117,6 +117,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[liustack/modlens](https://github.com/liustack/modlens)** — Adds image understanding to text-only coding agents through pluggable vision providers, supporting pasted images, local files, and image URLs with structured OCR, layout, semantics, and uncertainty output.
 
+- **[QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)** — Official multimodal Agent Skills and MCP servers for Qwen models, covering image, video, document, and 3D understanding, OCR, grounding, long-video memory, native audio-video analysis, media generation and editing, Blender, FreeCAD, and educational explainer workflows.
+
 ## Image & Visual Design
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — Generates Chinese hand-drawn technical illustrations for articles, explanations, and social covers.
