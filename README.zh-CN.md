@@ -123,6 +123,8 @@
 
 ## 图像与视觉设计
 
+- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — 面向 Codex、Claude Code 和 Pi 的专业图表设计 Skill，支持 28 种架构与信息图类型、品牌风格适配、Mermaid/Draw.io 重绘，以及 HTML、SVG 和 PNG 输出。
+
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — 为文章、概念解释和社交媒体封面生成中文手绘技术配图。
 
 - **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** — 将中文文章中的判断、结构和隐喻转化为具有“小黑”角色特色的手绘配图。
