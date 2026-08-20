@@ -165,7 +165,7 @@
 
 - **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — 用 Manim 制作数学和知识讲解动画的 Agent Skills。
 
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — 基于 Remotion 的 AI 视频制作 Skill，覆盖电影感产品视频的镜头配方、动态预览、分镜、节奏和音效指导。
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — 面向电影感产品宣传片的生产级 Remotion Skill，内含 152 张镜头配方卡、209 个动态样片、完整宣传片模板、真实页面采集、2.5D 运镜、节拍同步、声音设计、质量验收与可编辑剪映工程导出。
 
 - **[geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director)** — 将文章、产品、网站和 README 转化为中文优先的动态视频制作流程。
 
