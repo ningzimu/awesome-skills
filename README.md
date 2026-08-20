@@ -165,7 +165,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — Agent skills for producing mathematical and educational animations with Manim.
 
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — A Remotion-based AI video skill for cinematic product videos, with shot recipes, motion previews, storyboarding, pacing, and sound-design guidance.
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — A production-ready Remotion skill for cinematic product videos, with 152 shot recipe cards, 209 motion previews, a complete promo template, real-page capture, 2.5D camera moves, beat-synced editing, sound design, quality review, and editable JianYing project export.
 
 - **[geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director)** — Directs Chinese-first motion-video production from articles, products, websites, and README files.
 
