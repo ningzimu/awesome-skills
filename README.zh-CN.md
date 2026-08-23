@@ -53,7 +53,9 @@
 
 - **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — 用于选择 UI 风格、配色、字体与组件模式的可检索设计知识库。
 
-- **[emilkowalski/skills](https://github.com/emilkowalski/skills/tree/main/skills/emil-design-eng)** — 面向 UI 打磨、组件质感、动效取舍和交互细节的设计工程指南。
+- **[emilkowalski/skills](https://github.com/emilkowalski/skills)** — 面向 UI 打磨、动效、React Native 与 Expo、Apple 设计及现代 Swift 的设计工程 Skills 集合。
+
+- **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** — 从 API 使用、数据流、导航、无障碍、性能和可维护性等方面审查并改进现代 SwiftUI 代码。
 
 - **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** — GSAP 官方的 AI 编码 Agent Skills，覆盖常见动画模式，以及 ScrollTrigger、MotionPath、Flip 等插件。
 
