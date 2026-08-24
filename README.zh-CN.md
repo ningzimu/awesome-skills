@@ -47,6 +47,8 @@
 
 - **[tanweai/pua](https://github.com/tanweai/pua)** — 结合持续推进提示、系统化调试和主动执行的高能动性编码工作流。
 
+- **[oil-oil/vibe-hub-skill](https://github.com/oil-oil/vibe-hub-skill)** — 一款 Vibe Coding 术语助手，可将模糊需求改写成准确、可直接交给 Agent 的表达，结合上下文解释陌生概念，并链接到 [VibeHub](https://vibe-hub.org/) 知识库中的相关词条。
+
 ### 前端与 UI
 
 - **[Vercel Web Design Guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** — 按最新界面规范审查网页 UI，覆盖可访问性和 UX 最佳实践。
