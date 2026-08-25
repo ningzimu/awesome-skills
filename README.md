@@ -127,6 +127,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Image & Visual Design
 
+- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Creates validated architecture, workflow, sequence, data-flow, and lifecycle diagrams as interactive standalone HTML, with typed JSON sources and PNG, SVG, WebM, and share-card exports.
+
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — A professional diagram-design skill for Codex, Claude Code, and Pi, with 28 architecture and information-visualization types, brand adaptation, Mermaid/Draw.io redesign, and HTML, SVG, and PNG output.
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — Generates Chinese hand-drawn technical illustrations for articles, explanations, and social covers.

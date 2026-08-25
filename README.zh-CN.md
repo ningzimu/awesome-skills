@@ -127,6 +127,8 @@
 
 ## 图像与视觉设计
 
+- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — 将架构、工作流、时序、数据流和生命周期图生成为经过校验的交互式单文件 HTML，并保留 typed JSON 源文件，支持导出 PNG、SVG、WebM 和分享卡片。
+
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — 面向 Codex、Claude Code 和 Pi 的专业图表设计 Skill，支持 28 种架构与信息图类型、品牌风格适配、Mermaid/Draw.io 重绘，以及 HTML、SVG 和 PNG 输出。
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — 为文章、概念解释和社交媒体封面生成中文手绘技术配图。
