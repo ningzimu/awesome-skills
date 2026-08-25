@@ -59,6 +59,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** — Reviews and improves modern SwiftUI code across API usage, data flow, navigation, accessibility, performance, and maintainability.
 
+- **[Dimillian/Skills](https://github.com/Dimillian/Skills)** — An Apple-platform development skill collection for iOS simulator debugging, Swift concurrency, SwiftUI patterns, performance audits, view refactoring, and App Store release notes.
+
 - **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** — Official GSAP skills for AI coding agents, covering animation patterns and plugins such as ScrollTrigger, MotionPath, and Flip.
 
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — A design workflow for AI coding agents with UI planning, design critique, quality audits, and live browser iteration.

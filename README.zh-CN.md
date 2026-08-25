@@ -59,6 +59,8 @@
 
 - **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** — 从 API 使用、数据流、导航、无障碍、性能和可维护性等方面审查并改进现代 SwiftUI 代码。
 
+- **[Dimillian/Skills](https://github.com/Dimillian/Skills)** — Apple 平台开发 Skills 集合，覆盖 iOS 模拟器调试、Swift 并发、SwiftUI 模式、性能审计、视图重构和 App Store 更新说明。
+
 - **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** — GSAP 官方的 AI 编码 Agent Skills，覆盖常见动画模式，以及 ScrollTrigger、MotionPath、Flip 等插件。
 
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — 面向 AI 编码 Agent 的设计工作流，覆盖 UI 规划、设计评审、质量审查和浏览器实时迭代。
