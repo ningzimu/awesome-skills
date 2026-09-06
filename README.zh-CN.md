@@ -51,6 +51,8 @@
 
 ### 前端与 UI
 
+- **[UI Skills](https://www.ui-skills.com/)** — 面向设计工程的 Skills 目录，覆盖界面设计、无障碍、动效与性能，并提供供 Agent 使用的 CLI 和 MCP 接入方式。
+
 - **[Vercel Web Design Guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** — 按最新界面规范审查网页 UI，覆盖可访问性和 UX 最佳实践。
 
 - **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — 用于选择 UI 风格、配色、字体与组件模式的可检索设计知识库。

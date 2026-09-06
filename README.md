@@ -51,6 +51,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ### Frontend & UI
 
+- **[UI Skills](https://www.ui-skills.com/)** — A design-engineering skill catalog covering interface design, accessibility, motion, and performance, with CLI and MCP access for agents.
+
 - **[Vercel Web Design Guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** — Reviews web UI against current interface guidelines, including accessibility and UX best practices.
 
 - **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — A searchable design-intelligence library for choosing UI styles, color palettes, typography, and component patterns.
