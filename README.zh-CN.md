@@ -49,6 +49,8 @@
 
 - **[oil-oil/vibe-hub-skill](https://github.com/oil-oil/vibe-hub-skill)** — 一款 Vibe Coding 术语助手，可将模糊需求改写成准确、可直接交给 Agent 的表达，结合上下文解释陌生概念，并链接到 [VibeHub](https://vibe-hub.org/) 知识库中的相关词条。
 
+- **[vostride/agent-qa](https://github.com/vostride/agent-qa)** — 提供三个应用 QA Skills，用于编写自然语言 Web 与移动端回归测试、调试失败流程和分诊运行证据，并配套 Agent QA CLI 与 MCP Server。当前采用 FSL-1.1-ALv2 源码可用许可；每个版本会在两年后转为 Apache-2.0。
+
 ### 前端与 UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — 面向设计工程的 Skills 目录，覆盖界面设计、无障碍、动效与性能，并提供供 Agent 使用的 CLI 和 MCP 接入方式。

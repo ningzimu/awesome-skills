@@ -49,6 +49,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[oil-oil/vibe-hub-skill](https://github.com/oil-oil/vibe-hub-skill)** — A Vibe Coding terminology assistant that rewrites vague requests into precise, agent-ready language, explains unfamiliar concepts in context, and links relevant terms to the [VibeHub](https://vibe-hub.org/) knowledge base.
 
+- **[vostride/agent-qa](https://github.com/vostride/agent-qa)** — Three application-QA skills for authoring natural-language web and mobile regression tests, debugging failed flows, and triaging run evidence, backed by Agent QA's CLI and MCP server. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
+
 ### Frontend & UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — A design-engineering skill catalog covering interface design, accessibility, motion, and performance, with CLI and MCP access for agents.
