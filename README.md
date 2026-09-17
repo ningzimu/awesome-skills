@@ -159,6 +159,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — Skills for creating template-driven and programmatic videos with React and Remotion.
 
+- **[Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines.
+
 ### Editing & Post-Production
 
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — Uses coding agents to turn raw footage into finished videos with editing, subtitles, filler-word removal, and color grading.

@@ -159,6 +159,8 @@
 
 - **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — 用于通过 React 与 Remotion 制作模板化、代码驱动视频的 Skills。
 
+- **[Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — MIT 开源、本地优先的 CLI 与 MCP 工具包，让编程 Agent 基于可编辑的 plan.json 时间线编排、剪辑和生成视频。
+
 ### 剪辑与后期
 
 - **[browser-use/video-use](https://github.com/browser-use/video-use)** — 让编码 Agent 把原始素材剪成成片，支持剪辑、字幕、去口头禅和调色。
