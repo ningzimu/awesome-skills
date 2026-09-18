@@ -153,6 +153,8 @@
 
 - **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — 让 Agent 用 HTML、CSS 和 JavaScript 制作视频，并稳定渲染为 MP4。
 
+- **[hypit-ai/hypit](https://github.com/hypit-ai/hypit)** — 一套 Agent Skill 与视频制作框架，将参考视频或需求转为可编辑、可复用的工作流，支持词级字幕对齐、素材生成和画面合成。
+
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — 一套 Agentic 视频生产系统，覆盖调研、脚本、素材生成、剪辑和合成等生产流程、工具与 Skills。
 
 - **[Pluviobyte/rnskill](https://github.com/Pluviobyte/rnskill)** — 一套面向 Codex 与 Claude Code、可相互串联的中文优先 Skills，将选题策划、脚本、配音、剪辑、动效、字幕和质检组成端到端 AI 视频工作流。
