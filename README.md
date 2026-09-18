@@ -29,188 +29,192 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Skill Ecosystem
 
-- **[Awesome Skills](skills/awesome-skills)** — A meta-skill that checks the live list to discover and install specialist capabilities as tasks require them.
+- **[Awesome Skills](skills/awesome-skills)** — A meta-skill that queries this live list to automatically discover and install specialist capabilities as tasks require them.
 
-- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — Compiles documentation, repositories, OpenAPI specifications, and PDFs into `SKILL.md` files and references.
+- **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — Converts documentation websites, GitHub repositories, OpenAPI specs, and PDFs into structured `SKILL.md` packages with conflict detection.
 
-- **[anthropics/skills](https://github.com/anthropics/skills)** — Anthropic's collection of example and document skills, plus the Agent Skills specification and template.
+- **[anthropics/skills](https://github.com/anthropics/skills)** — Anthropic's official collection of example skills, architectural templates, and the foundational Agent Skills specification.
 
-- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** — A collection of skills for context engineering, multi-agent architectures, and production agent systems.
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** — A specialized skill suite for context engineering, dynamic prompt budget optimization, and multi-agent production architectures.
 
-- **[SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)** — A multimodal skill collection for agent-driven image, video, audio, and social-content generation through MuAPI models and workflows.
+- **[SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)** — A multimodal media generation suite connecting coding agents to MuAPI models for image, video, audio, and social content synthesis.
 
-- **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — An open tool for discovering and installing agent skills.
+- **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — An open command-line utility (`npx skills`) for discovering, installing, and managing agent skills across projects.
 
 ## Coding & Development
 
-- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — Reusable coding guidelines inspired by Andrej Karpathy's observations on common LLM programming mistakes: Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution.
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — Reusable coding guidelines inspired by Andrej Karpathy's observations to curb LLM mistakes: Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution.
 
-- **[tanweai/pua](https://github.com/tanweai/pua)** — A high-agency coding workflow that combines persistence prompts, systematic debugging, and proactive execution.
+- **[tanweai/pua](https://github.com/tanweai/pua)** — A high-agency coding workflow leveraging corporate PUA / PIP pressure tactics and structured debugging checklists to prevent agents from giving up prematurely.
 
-- **[oil-oil/vibe-hub-skill](https://github.com/oil-oil/vibe-hub-skill)** — A Vibe Coding terminology assistant that rewrites vague requests into precise, agent-ready language, explains unfamiliar concepts in context, and links relevant terms to the [VibeHub](https://vibe-hub.org/) knowledge base.
+- **[oil-oil/vibe-hub-skill](https://github.com/oil-oil/vibe-hub-skill)** — A Vibe Coding terminology assistant that rewrites vague requests into precise agent instructions, clarifies concepts in context, and links to the [VibeHub](https://vibe-hub.org/) knowledge base.
 
-- **[vostride/agent-qa](https://github.com/vostride/agent-qa)** — Three application-QA skills for authoring natural-language web and mobile regression tests, debugging failed flows, and triaging run evidence, backed by Agent QA's CLI and MCP server. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
+- **[vostride/agent-qa](https://github.com/vostride/agent-qa)** — Authors natural-language web and mobile regression tests, debugs broken flows, and triages run evidence via Agent QA's CLI and MCP server.
+
+- **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)** — Automates App Store Connect workflows via the `asc` CLI, covering Xcode builds, signing, TestFlight, metadata, screenshots, review submissions, and notarization.
 
 ### Frontend & UI
 
-- **[UI Skills](https://www.ui-skills.com/)** — A design-engineering skill catalog covering interface design, accessibility, motion, and performance, with CLI and MCP access for agents.
+- **[UI Skills](https://www.ui-skills.com/)** — A design-engineering skill catalog for UI craft, accessibility, motion, and performance, accessible to agents via CLI and MCP.
 
-- **[Vercel Web Design Guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** — Reviews web UI against current interface guidelines, including accessibility and UX best practices.
+- **[Vercel Web Design Guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** — Audits web UI against modern interface guidelines, accessibility standards, and UX best practices.
 
-- **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — A searchable design-intelligence library for choosing UI styles, color palettes, typography, and component patterns.
+- **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — A searchable design-intelligence library covering UI styles, product palettes, font pairings, UX guidelines, and stack-specific component patterns.
 
-- **[emilkowalski/skills](https://github.com/emilkowalski/skills)** — A design-engineering skill collection for UI polish, motion, React Native and Expo, Apple design, and modern Swift.
+- **[emilkowalski/skills](https://github.com/emilkowalski/skills)** — A design-engineering skill collection focusing on UI polish, micro-interactions, fluid motion, React Native/Expo, Apple design, and modern Swift.
 
-- **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** — Reviews and improves modern SwiftUI code across API usage, data flow, navigation, accessibility, performance, and maintainability.
+- **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** — Reviews and refactors modern SwiftUI code across API adoption, data flow, navigation, accessibility, performance, and best practices.
 
 - **[Dimillian/Skills](https://github.com/Dimillian/Skills)** — An Apple-platform development skill collection for iOS simulator debugging, Swift concurrency, SwiftUI patterns, performance audits, view refactoring, and App Store release notes.
 
-- **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** — Official GSAP skills for AI coding agents, covering animation patterns and plugins such as ScrollTrigger, MotionPath, and Flip.
+- **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** — Official GSAP skills that teach AI coding agents animation best practices, performance optimization, and plugins like ScrollTrigger, MotionPath, and Flip.
 
-- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — A design workflow for AI coding agents with UI planning, design critique, quality audits, and live browser iteration.
+- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — A design workflow for AI coding agents that guides UI planning, design critique, visual polish, and live in-browser iteration.
 
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — A collection of frontend design skills for shaping visual direction, redesigning existing interfaces, and turning visual references into code.
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — An anti-slop frontend design skill that guides agents in visual direction, landing page aesthetics, and turning design references into distinctive code.
 
 ### Spec-Driven Development
 
-- **[github/spec-kit](https://github.com/github/spec-kit)** — A toolkit for getting started with Spec-Driven Development.
+- **[github/spec-kit](https://github.com/github/spec-kit)** — GitHub's official toolkit and templates for adopting Spec-Driven Development with AI coding agents.
 
-- **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)** — Spec-Driven Development for AI coding assistants.
+- **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)** — An open standard and workflow for Spec-Driven Development, keeping AI coding assistants aligned with specifications and change proposals.
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** — An Agentic Skills framework and software development methodology.
+- **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic software development methodology and skill framework that enforces systematic planning, test-driven iterations, and verification.
 
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** — A composable software-engineering workflow collection covering requirements clarification, specifications and ticket breakdown, TDD implementation, systematic debugging, parallel code review, architecture improvement, research, and cross-session handoffs.
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — A modular software-engineering skill suite covering requirements clarification, ticket decomposition, TDD implementation, parallel code review, and session handoffs.
 
 ## Research & Intelligence
 
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Connects AI agents to multiple information sources for cross-platform search, research, and content retrieval.
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Gives AI agents access to browse and search 17+ platforms—including X, Reddit, Bilibili, and Xiaohongshu—via CLI and MCP without API keys.
 
-- **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** — Fetches public X posts, X Articles, replies, engagement data, and WeChat Official Account articles for agent workflows.
+- **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** — Fetches public X (Twitter) posts, long-form X Articles, engagement metrics, and WeChat Official Account articles for agent workflows.
 
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — Researches recent discussions across Reddit, X, YouTube, Hacker News, and the web, then synthesizes a grounded summary.
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — Researches real-time discussions across Reddit, X, YouTube, Hacker News, and Polymarket, synthesizing grounded recent-trend briefs.
 
-- **[AI HOT](https://aihot.virxact.com/agent)** — Aggregates AI industry news and produces daily briefings for agents.
+- **[AI HOT](https://aihot.virxact.com/agent)** — Aggregates breaking AI industry developments and delivers structured daily intelligence briefings without requiring API keys.
 
-- **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — Runs a forkable 24-hour AI news radar with source-quality scoring, deduplication, story merging, GitHub Actions, a live web UI, and installable skills for briefings and source curation.
+- **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — A forkable 24/7 AI news radar featuring source quality scoring, deduplication, story clustering, a live dashboard, and agent skills for briefings.
 
 ## Automation & Productivity
 
-- **[browserwing/browserwing](https://github.com/browserwing/browserwing)** — Records browser actions as MCP commands or Claude Skills for repeatable browser automation.
+- **[browserwing/browserwing](https://github.com/browserwing/browserwing)** — Records manual browser interactions directly into deterministic MCP commands or Claude Skills for token-efficient browser automation.
+
+- **[HumanLayer show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me)** — Empowers agents to explain complex architectures and codeflows visually using diagrams, pseudocode, diffs, and standalone HTML artifacts.
 
 ## Obsidian
 
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — A collection of Agent Skills for Obsidian Markdown, CLI, Bases, Canvas, and related workflows.
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Official Obsidian Agent Skills enabling agents to read, write, and manage vaults via the Obsidian CLI, Markdown, Bases, and JSON Canvas.
 
-- **[axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)** — Generates Obsidian Canvas, Excalidraw, and Mermaid diagrams from text.
+- **[axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)** — Generates native Obsidian Canvas boards, Excalidraw sketches, and Mermaid diagrams directly from unstructured text.
 
 ## Writing & Publishing
 
-- **[blader/humanizer](https://github.com/blader/humanizer)** — Removes common signs of AI-generated writing from English text.
+- **[blader/humanizer](https://github.com/blader/humanizer)** — Detects and eliminates telltale signs of AI generation from English writing to make text feel human-authored.
 
-- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — A Chinese-language adaptation that reduces formulaic AI writing patterns.
+- **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — A localized Chinese skill that strips formulaic tropes, superficial rhetoric, and robotic cadences from AI-written text.
 
-- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — A general Chinese writing and revision skill that separates factual and fictional workflows, then improves structure, pacing, and natural phrasing.
+- **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — A Chinese writing and revision skill distinguishing factual from creative narrative, shaping authentic voice, pacing, and structure.
 
-- **[jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown)** — Captures WeChat Official Account articles and converts them to Markdown.
+- **[jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown)** — Scrapes WeChat Official Account articles and parses them into clean, well-formatted Markdown for archival and knowledge bases.
 
-- **[imraywang/wewrite](https://github.com/imraywang/wewrite)** — Runs a WeChat Official Account workflow from topic research and writing through editing, layout, and draft delivery.
+- **[imraywang/wewrite](https://github.com/imraywang/wewrite)** — An end-to-end WeChat publishing pipeline spanning trending topic discovery, drafting, typography formatting, and one-click draft sync.
 
-- **[JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)** — A content-creation skill set for Xiaohongshu carousels, cover images, infographics, and article illustration.
+- **[JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)** — A versatile visual content creation suite for designing Xiaohongshu carousel cards, cover graphics, infographics, and article illustrations.
 
-- **[white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills)** — Automates Xiaohongshu publishing, comments, and search for compatible agents.
+- **[white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills)** — Automates Xiaohongshu note publishing, comment interaction, and keyword discovery across compatible coding agents.
 
-- **[leeguooooo/Mailbox](https://github.com/leeguooooo/Mailbox)** — Provides CLI-first email management with multi-account support, local sync, and interfaces for agents.
+- **[leeguooooo/Mailbox](https://github.com/leeguooooo/Mailbox)** — Enables agents to search, read, triage, and send emails across Gmail, Outlook, QQ, and 163 via CLI or MCP.
 
-- **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — Bridges coding agents to Telegram, Discord, and Feishu/Lark for remote conversations.
+- **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — Bridges Claude Code and Codex to Telegram, Discord, and Feishu/Lark, enabling mobile, remote-controlled coding sessions.
 
 ## Multimodal & Vision
 
-- **[liustack/modlens](https://github.com/liustack/modlens)** — Adds image understanding to text-only coding agents through pluggable vision providers, supporting pasted images, local files, and image URLs with structured OCR, layout, semantics, and uncertainty output.
+- **[liustack/modlens](https://github.com/liustack/modlens)** — Equips text-only coding agents with multimodal perception, translating pasted images, files, and URLs into structured OCR, layout, and semantic JSON.
 
-- **[QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)** — Official multimodal Agent Skills and MCP servers for Qwen models, covering image, video, document, and 3D understanding, OCR, grounding, long-video memory, native audio-video analysis, media generation and editing, Blender, FreeCAD, and educational explainer workflows.
+- **[QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)** — Official Qwen multimodal skills and MCP servers spanning image/video/document/3D understanding, spatial grounding, media generation, and CAD workflows.
 
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** — Reconstructs a single reference image as an editable procedural Three.js 3D model, using detail inventories, staged generation, strict quality gates, and visual comparison reviews to improve geometry, material, and appearance fidelity.
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** — Reconstructs reference images into clean, procedural, and animation-ready Three.js 3D models with strict quality verification gates.
 
 ## Image & Visual Design
 
-- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Creates validated architecture, workflow, sequence, data-flow, and lifecycle diagrams as interactive standalone HTML, with typed JSON sources and PNG, SVG, WebM, and share-card exports.
+- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Generates verifiable architecture, sequence, and workflow diagrams as interactive standalone HTML, supporting typed JSON sources and rich media exports.
 
-- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — A professional diagram-design skill for Codex, Claude Code, and Pi, with 28 architecture and information-visualization types, brand adaptation, Mermaid/Draw.io redesign, and HTML, SVG, and PNG output.
+- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — Designs publication-grade architectural and infographic diagrams across 38 visual formats, outputting clean HTML and SVG without Mermaid templating.
 
-- **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — Generates Chinese hand-drawn technical illustrations for articles, explanations, and social covers.
+- **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — Generates distinctive Chinese hand-drawn technical illustrations, visual concept explainers, and editorial cover art.
 
-- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** — Turns ideas and structures in Chinese articles into distinctive hand-drawn illustrations featuring the Xiaohei character.
+- **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** — Transforms abstract arguments, workplace dilemmas, and architectural concepts into minimalist hand-drawn illustrations starring the Xiaohei IP.
 
-- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** — Generates Xiaohongshu carousels and paired WeChat cover images with editorial visual systems.
+- **[op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** — Generates Swiss-style Xiaohongshu carousels and matched WeChat 21:9 and 1:1 cover sets using modular editorial layouts.
 
-- **[ningzimu/codex-gpt-image](https://github.com/ningzimu/codex-gpt-image)** — Adds GPT Image generation and reference-image editing workflows to compatible agents.
+- **[ningzimu/codex-gpt-image](https://github.com/ningzimu/codex-gpt-image)** — Integrates GPT Image generation and reference editing into compatible coding agents via Codex authentication without requiring API keys.
 
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** — A GPT Image 2 prompt engine, template library, case collection, and reusable skill.
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** — A comprehensive prompt engineering framework, template catalog, showcase, and reusable skill for GPT Image generation.
 
 ## Video & Motion
 
 ### Production Frameworks & Workflows
 
-- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Lets agents create videos with HTML, CSS, and JavaScript, then deterministically render them to MP4.
+- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Enables agents to build web-native video compositions using HTML, CSS, and JavaScript, rendering deterministically to MP4.
 
-- **[hypit-ai/hypit](https://github.com/hypit-ai/hypit)** — An agent skill and video-production framework that turns references or briefs into editable, reusable workflows with word-aligned captions, generated assets, and compositing.
+- **[hypit-ai/hypit](https://github.com/hypit-ai/hypit)** — A video-production framework that transforms creative briefs or reference clips into modular workflows with word-aligned captions and automated compositing.
 
-- **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — An agentic video-production system with production pipelines, tools, and skills for research, scripting, asset creation, editing, and compositing.
+- **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — An agentic end-to-end video pipeline providing tools and skills for topic research, scriptwriting, asset generation, editing, and final assembly.
 
-- **[Pluviobyte/rnskill](https://github.com/Pluviobyte/rnskill)** — A Chinese-first collection of interconnected skills for Codex and Claude Code, forming an end-to-end AI video workflow from planning and scripting through voice, editing, motion, subtitles, and quality control.
+- **[Pluviobyte/rnskill](https://github.com/Pluviobyte/rnskill)** — A Chinese-first interconnected skill suite for coding agents, orchestrating end-to-end video production across ideation, voiceover, motion, subtitles, and QA.
 
-- **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — Skills for creating template-driven and programmatic videos with React and Remotion.
+- **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — Official skills from Remotion for programmatically building, animating, and rendering React-based video compositions.
 
-- **[Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines.
+- **[Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — A local-first CLI and MCP toolkit enabling agents to compose, edit, and render videos from editable plan.json timeline configurations.
 
 ### Editing & Post-Production
 
-- **[browser-use/video-use](https://github.com/browser-use/video-use)** — Uses coding agents to turn raw footage into finished videos with editing, subtitles, filler-word removal, and color grading.
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** — Orchestrates raw footage into polished deliverables, automating rough cuts, filler-word removal, smart captioning, and color grading.
 
-- **[Agentchengfeng/chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills)** — A Chinese-first talking-head video workflow for Codex and Claude Code, covering rough cuts, subtitles, visuals, export, and human review.
+- **[Agentchengfeng/chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills)** — A specialized talking-head video cutting workflow for coding agents, automating rough cutting, speech-to-subtitle sync, B-roll insertion, and human-gated export.
 
-- **[ChatCut-Inc/agent-plugin](https://github.com/ChatCut-Inc/agent-plugin)** — Connects Codex and Claude Code to ChatCut through MCP for timeline editing, motion graphics, asset generation, transcription, captions, export, and in-editor verification.
+- **[ChatCut-Inc/agent-plugin](https://github.com/ChatCut-Inc/agent-plugin)** — Connects coding agents to ChatCut via MCP, enabling multitrack timeline editing, motion graphics, AI asset generation, and in-editor visual checks.
 
-- **[0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)** — An independent, open-source, local-first AI video editor with a professional multitrack timeline, Agent Skills, MCP control, editable motion graphics, and Remotion-based export.
+- **[0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut)** — An open-source, local-first AI video editor featuring professional multitrack timelines, MCP control, editable motion graphics, and Remotion export.
 
-- **[liuluhaixiu/DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent)** — Provides approval-gated Codex skills for analyzing footage, drafting scripts and edit blueprints, and building and auditing DaVinci Resolve timelines through Resolve MCP or its Python API.
+- **[liuluhaixiu/DaVinci-AutoEdit-Agent](https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent)** — Drives DaVinci Resolve via MCP and Python APIs to analyze footage, generate editing blueprints, and construct professional studio timelines.
 
-- **[JimLiu/baocut](https://github.com/JimLiu/baocut)** — Drives transcription, subtitles, translation, and video-cutting workflows through BaoCut.
+- **[JimLiu/baocut](https://github.com/JimLiu/baocut)** — Streamlines speech transcription, multilingual subtitle translation, and clip trimming through BaoCut automation.
 
 ### Motion, Animation & Generative Video
 
-- **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — Agent skills for producing mathematical and educational animations with Manim.
+- **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — Instructs agents to programmatically generate precise mathematical, physics, and conceptual explainer animations using Manim.
 
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — A production-ready Remotion skill for cinematic product videos, with 152 shot recipe cards, 209 motion previews, a complete promo template, real-page capture, 2.5D camera moves, beat-synced editing, sound design, quality review, and editable JianYing project export.
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — A production-ready Remotion skill for crafting cinematic product videos with 150+ shot recipes, 2.5D camera moves, beat-synced audio, and JianYing project export.
 
-- **[geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director)** — Directs Chinese-first motion-video production from articles, products, websites, and README files.
+- **[geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director)** — Serves as an AI motion director that adapts articles, READMEs, and web pages into dynamic HyperFrames video stories.
 
-- **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — Creates structured prompts for Seedance 2.0 video generation.
+- **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — Generates structured, cinematography-grade prompts for ByteDance's Seedance 2.0 video generation model.
 
-- **[songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)** — Generates production-ready Chinese prompts for Seedance 2.0, covering multimodal references, camera and effects replication, video extension, editing, and beat synchronization.
+- **[songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)** — Crafts production-ready prompts for Seedance 2.0, covering multimodal reference matching, camera motion replication, and rhythm sync.
 
-- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — A modular director workflow for Seedance 2.0, covering storyboards, camera movement, lighting, performance, sound, multi-shot continuity, platform adaptation, and systematic failure diagnosis.
+- **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — A modular director framework for Seedance 2.0, orchestrating storyboards, multi-shot character continuity, lighting, and failure diagnosis.
 
 ### Analysis & Utilities
 
-- **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — Gives agents video understanding by extracting timestamped frames and transcripts from URLs or local files for grounded summaries and questions.
+- **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — Extracts timestamped video keyframes and audio transcripts from local files or URLs, giving agents multimodal ground truth for analysis.
 
-- **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — Turns foreign-language videos into Chinese-subtitled videos locally through downloading, transcription, translation, polishing, and subtitle burn-in.
+- **[ningzimu/xiaohu-video-translate](https://github.com/ningzimu/xiaohu-video-translate)** — A local pipeline that translates foreign videos into Chinese, automating download, Whisper transcription, contextual subtitle polish, and hardcoded burn-in.
 
-- **[MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill)** — Downloads videos through an agent workflow built around `yt-dlp`.
+- **[MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill)** — Automates video and audio extraction across hundreds of platforms using an agent-optimized `yt-dlp` workflow.
 
 ## Presentations
 
-- **[chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)** — Generates browser-editable presentations from multiple visual themes and exports them to HTML, PDF, or editable PPTX.
+- **[chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)** — Generates browser-editable presentation decks across custom themes, with one-click export to HTML, PDF, and editable PPTX.
 
-- **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** — Generates native, editable PowerPoint decks with shapes, charts, transitions, animations, speaker notes, and support for existing templates.
+- **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** — Builds native, object-level editable PowerPoint presentations with vectors, charts, animations, speaker notes, and custom template inheritance.
 
-- **[ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)** — Generates image-based PowerPoint presentations from content planning through slide visuals.
+- **[ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)** — Generates visually unified, design-rich image-based PowerPoint decks directly from articles, reports, or outlines.
 
-- **[ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)** — Rebuilds slide images and PDFs as editable PowerPoint presentations.
+- **[ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)** — Reconstructs slide images, scanned decks, and PDF presentations into fully editable, object-level PowerPoint files.
 
-- **[ningzimu/awesome-ai-ppt](https://github.com/ningzimu/awesome-ai-ppt)** — A curated collection of AI presentation, PowerPoint automation, and slide workflow resources.
+- **[ningzimu/awesome-ai-ppt](https://github.com/ningzimu/awesome-ai-ppt)** — A comprehensive curated directory of AI presentation generators, PowerPoint automation frameworks, and slide engineering workflows.
 
-- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** — Generates polished single-file HTML slide decks, presentation visuals, and social covers.
+- **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** — Crafts publication-quality single-file HTML presentations and slide graphic cards with modern editorial design aesthetics.
 
-- **[helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)** — Generates full-page Chinese hand-drawn technical presentation visuals as PNG images.
+- **[helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)** — Transforms technical courseware and article outlines into distinctive, full-page Chinese hand-drawn presentation slides.
