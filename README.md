@@ -153,6 +153,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Lets agents create videos with HTML, CSS, and JavaScript, then deterministically render them to MP4.
 
+- **[hypit-ai/hypit](https://github.com/hypit-ai/hypit)** — An agent skill and video-production framework that turns references or briefs into editable, reusable workflows with word-aligned captions, generated assets, and compositing.
+
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — An agentic video-production system with production pipelines, tools, and skills for research, scripting, asset creation, editing, and compositing.
 
 - **[Pluviobyte/rnskill](https://github.com/Pluviobyte/rnskill)** — A Chinese-first collection of interconnected skills for Codex and Claude Code, forming an end-to-end AI video workflow from planning and scripting through voice, editing, motion, subtitles, and quality control.
