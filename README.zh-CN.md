@@ -41,6 +41,8 @@
 
 - **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — 用于在项目中快速检索、安装与管理 Agent Skills 的开源命令行工具（`npx skills`）。
 
+- **[limin112/min-skill](https://github.com/limin112/min-skill)** — 一组偏实战的 Claude Code Skills，覆盖讲解视频全流程制作、微信公众号文章排版发布，以及将手写内容转化为 3D 故事动画等创意工作流。
+
 ## 编码与开发
 
 - **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — 源自 Andrej Karpathy 对 LLM 编程失误的洞察，确立“深思熟虑、大道至简、精准修改与目标导向”的可复用工程准则。
