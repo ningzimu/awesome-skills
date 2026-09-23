@@ -183,6 +183,8 @@
 
 ### 动效、动画与生成式视频
 
+- **[hand-drawn-canvas-animation](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation)** — 使用 JavaScript 和 Canvas 2D 制作可编辑的手绘动画短片，支持多种绘画风格、照片涂鸦、沙画与立体纸书，并可渲染导出 MP4。
+
 - **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — 指导 Agent 编写高质量 Manim 脚本，程序化生成数学几何、物理推演与科普概念的可视化动画。
 
 - **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — 面向产品宣传片的生产级 Remotion 技能，内含 150+ 镜头配方、2.5D 运镜、网页录制、卡点配乐与可直接在剪映二次编辑的工程导出。

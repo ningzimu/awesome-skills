@@ -183,6 +183,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ### Motion, Animation & Generative Video
 
+- **[hand-drawn-canvas-animation](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation)** — Creates editable hand-drawn animated films with JavaScript and Canvas 2D, including varied drawing styles, photo doodles, sand animation, pop-up books, and MP4 rendering.
+
 - **[adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)** — Instructs agents to programmatically generate precise mathematical, physics, and conceptual explainer animations using Manim.
 
 - **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — A production-ready Remotion skill for crafting cinematic product videos with 150+ shot recipes, 2.5D camera moves, beat-synced audio, and JianYing project export.
