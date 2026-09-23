@@ -41,6 +41,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — An open command-line utility (`npx skills`) for discovering, installing, and managing agent skills across projects.
 
+- **[limin112/min-skill](https://github.com/limin112/min-skill)** — A hands-on Claude Code skill collection spanning narrated explainer-video production, WeChat article publishing, and creative handwriting-to-3D story animation workflows.
+
 ## Coding & Development
 
 - **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — Reusable coding guidelines inspired by Andrej Karpathy's observations to curb LLM mistakes: Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution.
