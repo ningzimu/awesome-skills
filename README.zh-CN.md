@@ -55,6 +55,8 @@
 
 - **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)** — 基于 `asc` CLI 自动化 App Store Connect 全流程，覆盖 Xcode 构建、证书签名、TestFlight 分发、元数据同步、截图与送审公证。
 
+- **[yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills)** — 面向任务账本的 Agent Skills，覆盖实现粒度的 Ledger 任务规划与执行、可修订的 wiki 与工作流记录，以及带溯源的证据留存，可通过开放的 `skills` CLI 安装到 Claude Code、Codex 和 Pi。采用 MIT 许可。
+
 ### 前端与 UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — 面向设计工程的专业 Skills 库，覆盖界面打磨、无障碍、动效与性能，并为 Agent 提供 CLI 与 MCP 接入。
