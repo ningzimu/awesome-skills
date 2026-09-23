@@ -55,6 +55,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)** — Automates App Store Connect workflows via the `asc` CLI, covering Xcode builds, signing, TestFlight, metadata, screenshots, review submissions, and notarization.
 
+- **[yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills)** — Task-ledger agent skills covering implementation-sized Ledger task planning and execution, revisioned wiki and workflow records, and provenance-bound evidence capture, installable with the open `skills` CLI for Claude Code, Codex, and Pi. MIT-licensed.
+
 ### Frontend & UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — A design-engineering skill catalog for UI craft, accessibility, motion, and performance, accessible to agents via CLI and MCP.
