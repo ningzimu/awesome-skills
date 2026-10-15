@@ -22,6 +22,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 - [Automation & Productivity](#automation--productivity)
 - [Obsidian](#obsidian)
 - [Writing & Publishing](#writing--publishing)
+- [Marketing & SEO](#marketing--seo)
 - [Multimodal & Vision](#multimodal--vision)
 - [Image & Visual Design](#image--visual-design)
 - [Video & Motion](#video--motion)
@@ -130,6 +131,10 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[leeguooooo/Mailbox](https://github.com/leeguooooo/Mailbox)** — Enables agents to search, read, triage, and send emails across Gmail, Outlook, QQ, and 163 via CLI or MCP.
 
 - **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — Bridges Claude Code and Codex to Telegram, Discord, and Feishu/Lark, enabling mobile, remote-controlled coding sessions.
+
+## Marketing & SEO
+
+- **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — Open-source SEO, GEO, and marketing skills for site audits, GA4 and Search Console analysis, and approval-gated ad changes across Google, Meta, X, LinkedIn, Reddit, and TikTok via the NotFair MCP.
 
 ## Multimodal & Vision
 

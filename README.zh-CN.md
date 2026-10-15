@@ -22,6 +22,7 @@
 - [自动化与效率](#自动化与效率)
 - [Obsidian](#obsidian)
 - [写作与发布](#写作与发布)
+- [营销与 SEO](#营销与-seo)
 - [多模态与视觉理解](#多模态与视觉理解)
 - [图像与视觉设计](#图像与视觉设计)
 - [视频与动态内容](#视频与动态内容)
@@ -130,6 +131,10 @@
 - **[leeguooooo/Mailbox](https://github.com/leeguooooo/Mailbox)** — 为 Agent 提供全功能邮件处理能力，支持通过 CLI 与 MCP 对 Gmail、Outlook、QQ、163 等多邮箱进行检索、收发与分诊。
 
 - **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — 将 Claude Code 与 Codex 接入 Telegram、Discord 及飞书，实现随时随地的移动端远程交互式编程。
+
+## 营销与 SEO
+
+- **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — 开源的 SEO、GEO 与营销 Skills，覆盖网站审计、GA4 与 Search Console 分析，并通过 NotFair MCP 在 Google、Meta、X、LinkedIn、Reddit 与 TikTok 广告账户中执行经审批的变更。
 
 ## 多模态与视觉理解
 
