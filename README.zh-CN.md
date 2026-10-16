@@ -42,6 +42,8 @@
 
 - **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — 用于在项目中快速检索、安装与管理 Agent Skills 的开源命令行工具（`npx skills`）。
 
+- **[Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill)** — 通过远程 MCP 一次接入，让编码 Agent 使用 400+ Skills，并带有 Vault 与审计（[aident.ai](https://aident.ai)）。
+
 - **[limin112/min-skill](https://github.com/limin112/min-skill)** — 一组偏实战的 Claude Code Skills，覆盖讲解视频全流程制作、微信公众号文章排版发布，以及将手写内容转化为 3D 故事动画等创意工作流。
 
 ## 编码与开发
