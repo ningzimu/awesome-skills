@@ -42,6 +42,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — An open command-line utility (`npx skills`) for discovering, installing, and managing agent skills across projects.
 
+- **[Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill)** — Connects coding agents to 400+ Skills through one remote MCP setup with Vault and audit ([aident.ai](https://aident.ai)).
+
 - **[limin112/min-skill](https://github.com/limin112/min-skill)** — A hands-on Claude Code skill collection spanning narrated explainer-video production, WeChat article publishing, and creative handwriting-to-3D story animation workflows.
 
 ## Coding & Development
