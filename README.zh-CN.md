@@ -136,6 +136,8 @@
 
 - **[huaxialucaicaizi/business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)** — 面向初创项目的 Codex Skill 模板，沉淀一致的项目介绍口径，并据此撰写结构清晰、不编造事实的商业计划书、路演材料与孵化器申请文案。
 
+- **[f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)** — 用一次 HTTP 请求或托管的 MCP 服务，把 HTML 文件或静态文件夹发布到永久的 `https://{slug}.deed.page/` 网址，无需注册账号，方便 Agent 把产出直接分享为在线网页（[deed.page](https://deed.page/docs)）。
+
 ## 营销与 SEO
 
 - **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — 开源的 SEO、GEO 与营销 Skills，覆盖网站审计、GA4 与 Search Console 分析，并通过 NotFair MCP 在 Google、Meta、X、LinkedIn、Reddit 与 TikTok 广告账户中执行经审批的变更。

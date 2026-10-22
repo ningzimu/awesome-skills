@@ -136,6 +136,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[huaxialucaicaizi/business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)** — A Codex skill template that keeps a consistent project narrative and drafts structured business plans, pitch materials, and incubator applications without inventing facts.
 
+- **[f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)** — Publishes an HTML file or a static folder to a permanent `https://{slug}.deed.page/` URL with one HTTP request or the hosted MCP server, with no account, so an agent can share its output as a live page ([deed.page](https://deed.page/docs)).
+
 ## Marketing & SEO
 
 - **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — Open-source SEO, GEO, and marketing skills for site audits, GA4 and Search Console analysis, and approval-gated ad changes across Google, Meta, X, LinkedIn, Reddit, and TikTok via the NotFair MCP.
