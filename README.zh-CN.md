@@ -92,6 +92,8 @@
 
 ## 研究与情报
 
+- **[zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)** — 聚合精选 AI Builder 的公开 X 帖文、播客和官方博客，生成附原文链接的动态摘要。
+
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — 为 AI Agent 提供免 API Key 的全网检索与阅读能力，覆盖 X、Reddit、B站、小红书等 17+ 主流平台。
 
 - **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** — 抓取公开 X（Twitter）推文、长篇 X Article、互动数据以及微信公众号正文与元数据。
@@ -103,6 +105,8 @@
 - **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — 可一键 Fork 的 24 小时 AI 资讯雷达，包含信源质量评分、自动去重聚类、Web 仪表盘与配报/信源维护 Skills。
 
 ## 自动化与效率
+
+- **[ego-browser](https://github.com/citrolabs/ego-lite/tree/main/skills/ego-browser)** — 采用 MIT 许可证的浏览器自动化 Skill，将编码 Agent 接入 ego lite，复用已有登录态并在独立 Space 中读取网页、填写表单、截图及测试 Web 应用；需配合浏览器应用使用。
 
 - **[browserwing/browserwing](https://github.com/browserwing/browserwing)** — 将人工浏览器操作录制为确定性的 MCP 指令或 Claude Skills，实现低 Token 消耗的可靠浏览器自动化。
 
@@ -136,7 +140,9 @@
 
 - **[huaxialucaicaizi/business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)** — 面向初创项目的 Codex Skill 模板，沉淀一致的项目介绍口径，并据此撰写结构清晰、不编造事实的商业计划书、路演材料与孵化器申请文案。
 
-- **[f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)** — 用一次 HTTP 请求或托管的 MCP 服务，把 HTML 文件或静态文件夹发布到永久的 `https://{slug}.deed.page/` 网址，无需注册账号，方便 Agent 把产出直接分享为在线网页（[deed.page](https://deed.page/docs)）。
+- **[YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter)** — 基于已知事实、明确边界与关系差异，准备谈判方案并起草难沟通情境中的回复。
+
+- **[f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)** — 通过 HTTP 或托管 MCP 服务将 HTML 文件和静态文件夹发布到可分享的 deed.page 网址，无需注册账号，免费方案为公开托管（[deed.page](https://deed.page/docs)）。
 
 ## 营销与 SEO
 
@@ -151,6 +157,8 @@
 - **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** — 将单张参考图通过阶段化代码生成与视觉门禁，重建为纯代码驱动、可编辑且支持动画的程序化 Three.js 3D 模型。
 
 ## 图像与视觉设计
+
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** — 采用 MIT 许可证的本地设计技能集合，支持 UI 原型、可编辑幻灯片、设计系统和数据仪表盘，并提供本地编辑器及对应格式导出。
 
 - **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** — 将技术概念做成高度精细、可交互的等距 SVG 实物图解，用机械装置解释机械表、引擎或算法的工作原理，并支持 WebGL 着色与三维转动，适用于 Claude Code、Codex、OpenCode 与 Antigravity。
 

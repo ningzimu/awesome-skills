@@ -92,6 +92,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Research & Intelligence
 
+- **[zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)** — Aggregates curated AI builders' public X posts, podcasts, and official blogs into digests with original source links.
+
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Gives AI agents access to browse and search 17+ platforms—including X, Reddit, Bilibili, and Xiaohongshu—via CLI and MCP without API keys.
 
 - **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** — Fetches public X (Twitter) posts, long-form X Articles, engagement metrics, and WeChat Official Account articles for agent workflows.
@@ -103,6 +105,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — A forkable 24/7 AI news radar featuring source quality scoring, deduplication, story clustering, a live dashboard, and agent skills for briefings.
 
 ## Automation & Productivity
+
+- **[ego-browser](https://github.com/citrolabs/ego-lite/tree/main/skills/ego-browser)** — An MIT-licensed skill connecting coding agents to the ego lite browser for page reading, form filling, screenshots, and web app testing using existing logins and separate agent Spaces; requires the browser app.
 
 - **[browserwing/browserwing](https://github.com/browserwing/browserwing)** — Records manual browser interactions directly into deterministic MCP commands or Claude Skills for token-efficient browser automation.
 
@@ -136,7 +140,9 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[huaxialucaicaizi/business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)** — A Codex skill template that keeps a consistent project narrative and drafts structured business plans, pitch materials, and incubator applications without inventing facts.
 
-- **[f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)** — Publishes an HTML file or a static folder to a permanent `https://{slug}.deed.page/` URL with one HTTP request or the hosted MCP server, with no account, so an agent can share its output as a live page ([deed.page](https://deed.page/docs)).
+- **[YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter)** — Prepares negotiations and difficult-conversation drafts using established facts, clear boundaries, and relationship-aware tone.
+
+- **[f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)** — Publishes HTML files and static folders to shareable deed.page URLs via HTTP or a hosted MCP server, with no account required and public hosting on the free plan ([deed.page](https://deed.page/docs)).
 
 ## Marketing & SEO
 
@@ -151,6 +157,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** — Reconstructs reference images into clean, procedural, and animation-ready Three.js 3D models with strict quality verification gates.
 
 ## Image & Visual Design
+
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** — An MIT-licensed collection of local design skills for UI prototypes, editable slides, design systems, and data dashboards, with local editors and format-specific exports.
 
 - **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** — Builds crafted, highly detailed interactive isometric SVG figures that explain a technical idea as a real physical object, such as a mechanical watch, engine, or algorithm, with optional WebGL shaders and 3D motion for Claude Code, Codex, OpenCode, and Antigravity.
 
