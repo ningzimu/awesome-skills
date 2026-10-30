@@ -156,6 +156,8 @@
 
 ## 图像与视觉设计
 
+- **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** — 采用 MIT 许可证的本地设计技能集合，支持 UI 原型、可编辑幻灯片、设计系统和数据仪表盘，并提供本地编辑器及对应格式导出。
+
 - **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** — 将技术概念做成高度精细、可交互的等距 SVG 实物图解，用机械装置解释机械表、引擎或算法的工作原理，并支持 WebGL 着色与三维转动，适用于 Claude Code、Codex、OpenCode 与 Antigravity。
 
 - **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — 生成经过类型校验的架构图、时序图与数据流图，以动效交互式单文件 HTML 呈现，并支持导出 SVG、PNG 及 WebM。
