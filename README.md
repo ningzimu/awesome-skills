@@ -138,6 +138,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[huaxialucaicaizi/business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)** — A Codex skill template that keeps a consistent project narrative and drafts structured business plans, pitch materials, and incubator applications without inventing facts.
 
+- **[YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter)** — Prepares negotiations and difficult-conversation drafts using established facts, clear boundaries, and relationship-aware tone.
+
 ## Marketing & SEO
 
 - **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — Open-source SEO, GEO, and marketing skills for site audits, GA4 and Search Console analysis, and approval-gated ad changes across Google, Meta, X, LinkedIn, Reddit, and TikTok via the NotFair MCP.
