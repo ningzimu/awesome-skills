@@ -106,6 +106,8 @@
 
 ## 自动化与效率
 
+- **[ego-browser](https://github.com/citrolabs/ego-lite/tree/main/skills/ego-browser)** — 采用 MIT 许可证的浏览器自动化 Skill，将编码 Agent 接入 ego lite，复用已有登录态并在独立 Space 中读取网页、填写表单、截图及测试 Web 应用；需配合浏览器应用使用。
+
 - **[browserwing/browserwing](https://github.com/browserwing/browserwing)** — 将人工浏览器操作录制为确定性的 MCP 指令或 Claude Skills，实现低 Token 消耗的可靠浏览器自动化。
 
 - **[HumanLayer show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me)** — 让 Agent 能够通过清晰的架构图、伪代码、调用树、差异比对和独立 HTML 页面对代码进行可视化讲解。

@@ -106,6 +106,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Automation & Productivity
 
+- **[ego-browser](https://github.com/citrolabs/ego-lite/tree/main/skills/ego-browser)** — An MIT-licensed skill connecting coding agents to the ego lite browser for page reading, form filling, screenshots, and web app testing using existing logins and separate agent Spaces; requires the browser app.
+
 - **[browserwing/browserwing](https://github.com/browserwing/browserwing)** — Records manual browser interactions directly into deterministic MCP commands or Claude Skills for token-efficient browser automation.
 
 - **[HumanLayer show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me)** — Empowers agents to explain complex architectures and codeflows visually using diagrams, pseudocode, diffs, and standalone HTML artifacts.
