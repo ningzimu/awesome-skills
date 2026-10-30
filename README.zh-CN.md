@@ -142,6 +142,8 @@
 
 - **[YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter)** — 基于已知事实、明确边界与关系差异，准备谈判方案并起草难沟通情境中的回复。
 
+- **[f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)** — 通过 HTTP 或托管 MCP 服务将 HTML 文件和静态文件夹发布到可分享的 deed.page 网址，无需注册账号，免费方案为公开托管（[deed.page](https://deed.page/docs)）。
+
 ## 营销与 SEO
 
 - **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — 开源的 SEO、GEO 与营销 Skills，覆盖网站审计、GA4 与 Search Console 分析，并通过 NotFair MCP 在 Google、Meta、X、LinkedIn、Reddit 与 TikTok 广告账户中执行经审批的变更。

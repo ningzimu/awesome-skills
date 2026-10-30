@@ -142,6 +142,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter)** — Prepares negotiations and difficult-conversation drafts using established facts, clear boundaries, and relationship-aware tone.
 
+- **[f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)** — Publishes HTML files and static folders to shareable deed.page URLs via HTTP or a hosted MCP server, with no account required and public hosting on the free plan ([deed.page](https://deed.page/docs)).
+
 ## Marketing & SEO
 
 - **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — Open-source SEO, GEO, and marketing skills for site audits, GA4 and Search Console analysis, and approval-gated ad changes across Google, Meta, X, LinkedIn, Reddit, and TikTok via the NotFair MCP.
