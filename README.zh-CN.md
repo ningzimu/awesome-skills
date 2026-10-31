@@ -126,6 +126,8 @@
 
 - **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — 通用中文创作与深度润色技能，严格区分非虚构与虚构工作流，重塑有呼吸感的人性化表达与叙事节奏。
 
+- **[lucasbabur/jp-essay](https://github.com/lucasbabur/jp-essay)** — 需要 Claude Code、uv 及上游完整安装，用于研究、起草和修改英语或葡萄牙语文章，并通过基于来源的事实核查与 Python 脚本检查各阶段的要求。
+
 - **[jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown)** — 抓取微信公众号文章并解析为干净规整的 Markdown 文档，便于本地归档与知识库沉淀。
 
 - **[imraywang/wewrite](https://github.com/imraywang/wewrite)** — 微信公众号全流程创作工作流，覆盖热点选题、素材拓展、正文撰写、主题排版与一键推送草稿箱。

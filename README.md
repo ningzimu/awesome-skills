@@ -126,6 +126,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — A Chinese writing and revision skill distinguishing factual from creative narrative, shaping authentic voice, pacing, and structure.
 
+- **[lucasbabur/jp-essay](https://github.com/lucasbabur/jp-essay)** — Requires Claude Code, uv, and the full upstream installation to research, draft, and revise English or Portuguese essays with source-based fact-checking and Python workflow checks.
+
 - **[jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown)** — Scrapes WeChat Official Account articles and parses them into clean, well-formatted Markdown for archival and knowledge bases.
 
 - **[imraywang/wewrite](https://github.com/imraywang/wewrite)** — An end-to-end WeChat publishing pipeline spanning trending topic discovery, drafting, typography formatting, and one-click draft sync.
