@@ -112,6 +112,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[HumanLayer show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me)** — Empowers agents to explain complex architectures and codeflows visually using diagrams, pseudocode, diffs, and standalone HTML artifacts.
 
+- **[radres/call-me](https://github.com/radres/call-me)** — A Claude Code plugin and agent skill that phones your iPhone or Android when the agent needs you, reads its question aloud and returns your spoken answer as text; requires the paid /call-me app.
+
 ## Obsidian
 
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Official Obsidian Agent Skills enabling agents to read, write, and manage vaults via the Obsidian CLI, Markdown, Bases, and JSON Canvas.
