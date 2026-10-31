@@ -114,6 +114,8 @@
 
 - **[HumanLayer show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me)** — 让 Agent 能够通过清晰的架构图、伪代码、调用树、差异比对和独立 HTML 页面对代码进行可视化讲解。
 
+- **[radres/call-me](https://github.com/radres/call-me)** — Claude Code 插件与 Agent Skill，Agent 需要你时直接拨打你的 iPhone 或 Android 手机，朗读问题并把你的语音回答转成文字返回；需配合付费的 /call-me 应用使用。
+
 ## Obsidian
 
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Obsidian 官方技能套件，指导 Agent 通过 Obsidian CLI 及 Markdown、Bases、JSON Canvas 等开放格式管理双链知识库。
