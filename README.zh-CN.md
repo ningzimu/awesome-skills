@@ -30,9 +30,7 @@
 
 ## Skill 生态
 
-- **[CI validation only](https://github.com/ningzimu/opencode-fold-tools)** — Temporary eligibility test; do not merge.
-
-- **[Awesome Skills](skills/awesome-skills)** — 按任务需要动态读取本实时清单，自动发现并安装专业能力的元 Skill。
+- **[Awesome Skills](skills/awesome-skills)** — 按任务需要动态读取本实时清单，自动发现并安装专业能力的元 Skill。 <!-- CI existing-source validation only -->
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — 将文档网站、GitHub 仓库、OpenAPI 规范和 PDF 自动转换为带冲突检测的标准 `SKILL.md` 技能包。
 
