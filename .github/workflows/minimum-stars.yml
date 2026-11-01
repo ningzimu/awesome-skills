@@ -1,4 +1,4 @@
-name: Minimum source stars
+name: Source eligibility
 on:
   # Trusted base workflow only. NEVER check out or execute PR head code here.
   pull_request_target:
@@ -20,3 +20,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 -I .github/scripts/check_stars.py
+  source-eligibility:
+    name: Source eligibility (25 stars, 30 days, 90 days)
+    needs: minimum-stars
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require the trusted source check to pass
+        env:
+          CHECK_RESULT: ${{ needs.minimum-stars.result }}
+        run: test "$CHECK_RESULT" = success

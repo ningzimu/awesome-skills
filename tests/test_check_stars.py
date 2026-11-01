@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta, timezone
 import importlib.util
 import pathlib
 import unittest
@@ -18,11 +19,44 @@ def docs(rows=''):
 
 
 class StarsTests(unittest.TestCase):
-    def test_49_fails_50_passes(self):
-        for stars, failed in ((49, True), (50, False), (51, False)):
-            with self.subTest(stars=stars):
-                self.assertEqual(bool(m.check(['github:a/b'], lambda _: {
-                    'full_name': 'a/b', 'private': False, 'stargazers_count': stars})), failed)
+    NOW = datetime(2026, 11, 1, tzinfo=timezone.utc)
+
+    def fetcher(self, stars=25, age=30, activity=90, **overrides):
+        metadata = {'full_name': 'a/b', 'private': False, 'archived': False,
+                    'stargazers_count': stars, 'default_branch': 'main',
+                    'created_at': (self.NOW - timedelta(days=age)).isoformat()}
+        metadata.update(overrides)
+        commit = {'sha': 'a' * 40, 'commit': {'committer': {
+            'date': (self.NOW - timedelta(days=activity)).isoformat()}}}
+        return lambda path: commit if '/commits/' in path else metadata
+
+    def test_boundaries(self):
+        for args, failed in (({'stars': 24}, True), ({'stars': 25}, False),
+                             ({'age': 29}, True), ({'age': 30}, False),
+                             ({'activity': 90}, False), ({'activity': 90 + 1/86400}, True),
+                             ({'activity': -1}, True), ({'age': -1}, True),
+                             ({'archived': True}, True), ({'private': True}, True)):
+            with self.subTest(args=args):
+                self.assertEqual(bool(m.check(['github:a/b'], self.fetcher(**args), self.NOW)), failed)
+
+    def test_commit_failure_and_pushed_at_never_substitutes(self):
+        for response in ({}, [], {'sha': 'a'*40, 'commit': {'committer': {'date': None}}},
+                         {'sha': 'a'*40, 'commit': {'committer': {'date': '2026-11-01'}}}):
+            def fetch(path):
+                if '/commits/' in path:
+                    return response
+                return self.fetcher(pushed_at=self.NOW.isoformat())(path)
+            self.assertTrue(m.check(['github:a/b'], fetch, self.NOW))
+        def fetch(path):
+            if '/commits/' in path:
+                raise TimeoutError()
+            return self.fetcher()(path)
+        self.assertTrue(m.check(['github:a/b'], fetch, self.NOW))
+        self.assertTrue(m.check(['github:a/b'], self.fetcher(activity=91, pushed_at=self.NOW.isoformat()), self.NOW))
+
+    def test_missing_metadata_fails_closed(self):
+        for key in ('created_at', 'default_branch', 'archived'):
+            self.assertTrue(m.check(['github:a/b'], self.fetcher(**{key: None}), self.NOW))
 
     def test_all_projects_and_fail_closed(self):
         calls = []
@@ -30,9 +64,17 @@ class StarsTests(unittest.TestCase):
             calls.append(path)
             if path.endswith('bad'):
                 raise TimeoutError()
-            return {'full_name': path.removeprefix('/repos/'), 'private': False, 'stargazers_count': 50}
-        self.assertEqual(len(m.check(['github:a/bad', 'github:a/good', 'other:https://site.test'], fetch)), 2)
-        self.assertEqual(calls, ['/repos/a/bad', '/repos/a/good'])
+            return self.fetcher()(path)
+        self.assertEqual(len(m.check(['github:a/bad', 'github:a/b', 'other:https://site.test'], fetch, self.NOW)), 2)
+        self.assertEqual(calls, ['/repos/a/bad', '/repos/a/b', '/repos/a/b/commits/main'])
+
+    def test_existing_sources_do_not_fetch_metadata(self):
+        for name in m.STARTS:
+            base = {p: heading + '\n' + row('https://github.com/a/b')
+                    for p, heading in zip(m.FILES, m.STARTS[name])}
+            head = {p: text.replace('Description.', 'Updated.') for p, text in base.items()}
+            items = m.candidates(base, head, name)
+            self.assertEqual(m.check(items, lambda _: self.fail('existing source queried')), [])
 
     def test_bad_api_metadata(self):
         for data in ({}, {'full_name': 'different/repo', 'private': False, 'stargazers_count': 500},
@@ -121,7 +163,7 @@ class StarsTests(unittest.TestCase):
             file.flush()
             with patch.dict(os.environ, {'GITHUB_EVENT_PATH': file.name}), patch.object(
                     m, 'read_readmes', side_effect=[docs(), docs(row('https://github.com/a/b'))]) as read, patch.object(
-                    m, 'check', return_value=['a/b: 49 < 50']) as check:
+                    m, 'check', return_value=['a/b: 24 < 25']) as check:
                 self.assertTrue(m.main())
                 self.assertEqual(read.call_args_list[0].args, ('ningzimu/awesome-skills', 'a' * 40))
                 self.assertEqual(read.call_args_list[1].args, ('fork/awesome-skills', 'b' * 40))
