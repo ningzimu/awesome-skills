@@ -30,7 +30,7 @@
 
 ## Skill 生态
 
-- **[Awesome Skills](skills/awesome-skills)** — 按任务需要动态读取本实时清单，自动发现并安装专业能力的元 Skill。
+- **[Awesome Skills discovery](skills/awesome-skills)** — 按任务需要动态读取本实时清单，自动发现并安装专业能力的元 Skill。
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — 将文档网站、GitHub 仓库、OpenAPI 规范和 PDF 自动转换为带冲突检测的标准 `SKILL.md` 技能包。
 
@@ -251,8 +251,6 @@
 - **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** — 融合现代杂志编排美学，生成兼具高质感排版与丝滑翻页交互的单文件 HTML 幻灯片及演讲配图。
 
 - **[helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)** — 将技术课件、研报或演讲大纲整页渲染为极具辨识度的中文手绘技术白板风演示文稿图片。
-
-- **[CI validation fixture](https://github.com/ningzimu/awesome-skills)** — Temporary low-star source used only to validate CI; do not merge.
 
 ## 参与贡献
 提交新项目前，请阅读[贡献标准与最低 50 stars 要求](CONTRIBUTING.zh-CN.md)。

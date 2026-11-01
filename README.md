@@ -30,7 +30,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Skill Ecosystem
 
-- **[Awesome Skills](skills/awesome-skills)** — A meta-skill that queries this live list to automatically discover and install specialist capabilities as tasks require them.
+- **[Awesome Skills](skills/awesome-skills)** — A discovery meta-skill that queries this live list to automatically discover and install specialist capabilities as tasks require them.
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — Converts documentation websites, GitHub repositories, OpenAPI specs, and PDFs into structured `SKILL.md` packages with conflict detection.
 
@@ -251,8 +251,6 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** — Crafts publication-quality single-file HTML presentations and slide graphic cards with modern editorial design aesthetics.
 
 - **[helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)** — Transforms technical courseware and article outlines into distinctive, full-page Chinese hand-drawn presentation slides.
-
-- **[CI validation fixture](https://github.com/ningzimu/awesome-skills)** — Temporary low-star source used only to validate CI; do not merge.
 
 ## Contributing
 See [contribution standards and the 50-star minimum](CONTRIBUTING.md) before submitting a new project.
