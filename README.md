@@ -251,3 +251,6 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** — Crafts publication-quality single-file HTML presentations and slide graphic cards with modern editorial design aesthetics.
 
 - **[helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)** — Transforms technical courseware and article outlines into distinctive, full-page Chinese hand-drawn presentation slides.
+
+## Contributing
+See [contribution standards and the 50-star minimum](CONTRIBUTING.md) before submitting a new project.
