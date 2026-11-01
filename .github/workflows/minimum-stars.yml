@@ -6,8 +6,8 @@ on:
 permissions:
   contents: read
 jobs:
-  minimum-stars:
-    name: Minimum source stars (50)
+  source-eligibility:
+    name: Source eligibility (25 stars, 30 days, 90 days)
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -20,13 +20,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 -I .github/scripts/check_stars.py
-  source-eligibility:
-    name: Source eligibility (25 stars, 30 days, 90 days)
-    needs: minimum-stars
-    if: ${{ always() }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Require the trusted source check to pass
-        env:
-          CHECK_RESULT: ${{ needs.minimum-stars.result }}
-        run: test "$CHECK_RESULT" = success
