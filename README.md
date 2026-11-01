@@ -252,5 +252,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)** — Transforms technical courseware and article outlines into distinctive, full-page Chinese hand-drawn presentation slides.
 
+- **[CI validation fixture](https://github.com/ningzimu/awesome-skills)** — Temporary low-star source used only to validate CI; do not merge.
+
 ## Contributing
 See [contribution standards and the 50-star minimum](CONTRIBUTING.md) before submitting a new project.
