@@ -30,6 +30,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Skill Ecosystem
 
+- **[CI validation only](https://github.com/ningzimu/opencode-fold-tools)** — Temporary eligibility test; do not merge.
+
 - **[Awesome Skills](skills/awesome-skills)** — A meta-skill that queries this live list to automatically discover and install specialist capabilities as tasks require them.
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — Converts documentation websites, GitHub repositories, OpenAPI specs, and PDFs into structured `SKILL.md` packages with conflict detection.
