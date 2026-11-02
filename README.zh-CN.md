@@ -253,4 +253,4 @@
 - **[helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)** — 将技术课件、研报或演讲大纲整页渲染为极具辨识度的中文手绘技术白板风演示文稿图片。
 
 ## 参与贡献
-提交新项目前，请阅读[贡献标准与最低 50 stars 要求](CONTRIBUTING.zh-CN.md)。
+提交新项目前，请阅读[贡献标准与最低 25 stars 要求](CONTRIBUTING.zh-CN.md)。

@@ -1,5 +1,4 @@
 """Read PR Markdown as data; execute only the checker from the trusted base commit."""
-from datetime import datetime, timedelta, timezone
 import base64
 import json
 import os
@@ -9,8 +8,6 @@ from urllib.parse import quote, urlsplit
 from urllib.request import Request, build_opener, HTTPRedirectHandler
 
 MIN_STARS = 25
-MIN_AGE = timedelta(days=30)
-MAX_COMMIT_AGE = timedelta(days=90)
 FILES = ('README.md', 'README.zh-CN.md')
 STARTS = {'awesome-skills': ('## Skill Ecosystem', '## Skill 生态'),
           'awesome-projects': ('## Project Discovery', '## 项目发现')}
@@ -109,17 +106,7 @@ def read_readmes(repo, sha):
     return docs
 
 
-def timestamp(value):
-    if not isinstance(value, str):
-        raise CheckError('Missing timestamp')
-    result = datetime.fromisoformat(value.replace('Z', '+00:00'))
-    if result.tzinfo is None:
-        raise CheckError('Timestamp must include timezone')
-    return result
-
-
-def check(items, fetch=api, now=None):
-    now = now or datetime.now(timezone.utc)
+def check(items, fetch=api):
     failures = []
     for item in items:
         if not item.startswith('github:'):
@@ -130,28 +117,11 @@ def check(items, fetch=api, now=None):
             metadata = fetch('/repos/' + repo)
             stars = metadata.get('stargazers_count')
             if (metadata.get('full_name', '').lower() != repo
-                    or metadata.get('private') is not False
-                    or type(metadata.get('archived')) is not bool
                     or type(stars) is not int or stars < 0):
                 raise CheckError('Invalid or mismatched repository metadata')
             print(f'{repo}: {stars} stars (minimum {MIN_STARS})')
             if stars < MIN_STARS:
                 failures.append(f'{repo}: {stars} < {MIN_STARS}')
-            if metadata['archived']:
-                failures.append(f'{repo}: repository is archived')
-            created = timestamp(metadata.get('created_at'))
-            if not MIN_AGE <= now - created:
-                failures.append(f'{repo}: repository must be at least 30 days old')
-            branch = metadata.get('default_branch')
-            if not isinstance(branch, str) or not branch:
-                raise CheckError('Missing default branch')
-            # Inspect the actual tip commit, never pushed_at (which includes non-commit pushes).
-            commit = fetch(f'/repos/{repo}/commits/{quote(branch, safe="")}')
-            if not re.fullmatch(r'[0-9a-f]{40}', commit.get('sha', '')):
-                raise CheckError('Invalid commit identity')
-            committed = timestamp(commit['commit']['committer']['date'])
-            if not timedelta(0) <= now - committed <= MAX_COMMIT_AGE:
-                failures.append(f'{repo}: default-branch commit must be within the last 90 days')
         except Exception as error:
             # Avoid printing response bodies or credentials; continue to check all projects.
             failures.append(f'{repo}: unable to verify ({type(error).__name__})')

@@ -7,6 +7,8 @@ permissions:
   contents: read
 jobs:
   source-eligibility:
+    # Legacy required-check name retained for branch-protection compatibility.
+    # Only the 25-star threshold is enforced; age/activity gates were removed.
     name: Source eligibility (25 stars, 30 days, 90 days)
     runs-on: ubuntu-latest
     timeout-minutes: 10
