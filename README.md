@@ -253,4 +253,4 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)** — Transforms technical courseware and article outlines into distinctive, full-page Chinese hand-drawn presentation slides.
 
 ## Contributing
-See [contribution standards and the 50-star minimum](CONTRIBUTING.md) before submitting a new project.
+See [contribution standards and the 25-star minimum](CONTRIBUTING.md) before submitting a new project.
