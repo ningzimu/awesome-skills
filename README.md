@@ -164,6 +164,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Image & Visual Design
 
+- **[alexadams6ix/imagera-skills](https://github.com/alexadams6ix/imagera-skills)** — 37 agent skills plus a remote MCP server (OAuth) for generating and editing images, video, voice and music in Imagera, from product shots and ad sets to character-consistent series; the hosted service is paid.
+
 - **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** — An MIT-licensed collection of local design skills for UI prototypes, editable slides, design systems, and data dashboards, with local editors and format-specific exports.
 
 - **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** — Builds crafted, highly detailed interactive isometric SVG figures that explain a technical idea as a real physical object, such as a mechanical watch, engine, or algorithm, with optional WebGL shaders and 3D motion for Claude Code, Codex, OpenCode, and Antigravity.
