@@ -102,7 +102,7 @@
 
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — 聚合 Reddit、X、YouTube、Hacker News 与 Polymarket 上的近 30 天讨论，提炼有据可查的时事与趋势摘要。
 
-- **[AI HOT](https://aihot.virxact.com/agent)** — 聚合全球 AI 行业动态与前沿发布，为 Agent 提供免 API Key 的结构化每日资讯简报。
+- **[AIHOT](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot)** — 搜索中文 AI 行业动态与日报，无需 API Key。[安装说明](https://aihot.news/aihot-skill/README.md)
 
 - **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — 可一键 Fork 的 24 小时 AI 资讯雷达，包含信源质量评分、自动去重聚类、Web 仪表盘与配报/信源维护 Skills。
 
