@@ -102,7 +102,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — Researches real-time discussions across Reddit, X, YouTube, Hacker News, and Polymarket, synthesizing grounded recent-trend briefs.
 
-- **[AIHOT](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot)** — Searches Chinese-language AI news and retrieves daily briefs without an API key. [Installation guide](https://aihot.news/aihot-skill/README.md)
+- **[AIHOT](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot)** — Queries the hosted AIHOT service for Chinese-language AI news and daily briefs without an API key. External commercial use requires prior written permission. [Installation guide](https://aihot.news/aihot-skill/README.md)
 
 - **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — A forkable 24/7 AI news radar featuring source quality scoring, deduplication, story clustering, a live dashboard, and agent skills for briefings.
 
