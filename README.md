@@ -236,7 +236,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill)** — Automates video and audio extraction across hundreds of platforms using an agent-optimized `yt-dlp` workflow.
 
-- **[tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills)** — Fetches full YouTube transcripts in any caption language (optional timestamps and translation) and searches videos, channels and playlists through the GetYouTubeTranscript API; requires a getyoutubetranscript.com API key (100 free credits on sign-up, paid after that).
+- **[tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills)** — Fetches full YouTube transcripts in a video's available caption languages, with optional timestamps, and searches videos and channels and browses playlists through the GetYouTubeTranscript API; requires a getyoutubetranscript.com API key (100 free credits on sign-up, paid after that).
 
 ## Presentations
 
