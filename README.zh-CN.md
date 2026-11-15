@@ -236,6 +236,8 @@
 
 - **[MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill)** — 封装 `yt-dlp` 下载引擎，让 Agent 支持数百个音视频平台的高清原片抓取、音频提取与批量下载。
 
+- **[tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills)** — 通过 GetYouTubeTranscript API 获取 YouTube 视频的完整字幕（支持任意字幕语言，可选时间戳与翻译），并可搜索视频、浏览频道与播放列表；需要 getyoutubetranscript.com 的 API Key（注册赠送 100 积分，之后付费）。
+
 ## PPT 与演示文稿
 
 - **[chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)** — 根据大纲或文案生成支持浏览器实时编辑的演示幻灯片，提供多套视觉主题并可导出为 HTML、PDF 与原生 PPTX。
