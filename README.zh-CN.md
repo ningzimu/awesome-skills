@@ -62,6 +62,8 @@
 
 - **[morluto/rea — reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)** — 通过 REA CLI/MCP 的证据分析已发布二进制与 JavaScript/Electron 应用；需另装 REA，原生深度分析需自备 Hopper、Ghidra 或 IDA。
 
+- **[sno-ai/sno-station-skills](https://github.com/sno-ai/sno-station-skills)** — 采用 Apache-2.0 许可证的跨智能体评审、额度交接与可验证交付技能集；多数需 Sno Station，评审流程还需 Linux/GNU 工具及已登录的另一厂商智能体 CLI。
+
 ### 前端与 UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — 面向设计工程的专业 Skills 库，覆盖界面打磨、无障碍、动效与性能，并为 Agent 提供 CLI 与 MCP 接入。

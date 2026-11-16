@@ -62,6 +62,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[morluto/rea — reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)** — Investigates shipped binaries and JavaScript/Electron apps with REA CLI/MCP evidence; install REA separately and bring Hopper, Ghidra, or IDA for deep native analysis.
 
+- **[sno-ai/sno-station-skills](https://github.com/sno-ai/sno-station-skills)** — Apache-2.0 skills for cross-agent review, quota-aware handoff, and evidence-based delivery; most require Sno Station, and peer review requires Linux/GNU tools plus a logged-in reviewer CLI from another vendor.
+
 ### Frontend & UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — A design-engineering skill catalog for UI craft, accessibility, motion, and performance, accessible to agents via CLI and MCP.
