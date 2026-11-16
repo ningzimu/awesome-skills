@@ -62,7 +62,7 @@
 
 - **[morluto/rea — reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)** — 通过 REA CLI/MCP 的证据分析已发布二进制与 JavaScript/Electron 应用；需另装 REA，原生深度分析需自备 Hopper、Ghidra 或 IDA。
 
-- **[sno-ai/sno-station-skills](https://github.com/sno-ai/sno-station-skills)** — 39 个 Apache-2.0 技能，让 Claude Code 与 Codex 组队工作：由另一个智能体在全新会话里评审、额度用完前写好交接让另一个智能体接手、每条验收项由一次真实运行证明；多数技能调用需另行安装的 `sno` 命令行。
+- **[sno-ai/sno-station-skills](https://github.com/sno-ai/sno-station-skills)** — 采用 Apache-2.0 许可证的跨智能体评审、额度交接与可验证交付技能集；多数需 Sno Station，评审流程还需 Linux/GNU 工具及已登录的另一厂商智能体 CLI。
 
 ### 前端与 UI
 
