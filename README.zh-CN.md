@@ -174,6 +174,8 @@
 
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — 提供出版级技术架构与信息图表设计能力，涵盖 38 种图表类型，输出无模板痕迹的高质感单文件 HTML 与矢量 SVG。
 
+- **[renzo1031/visio-automation-skill](https://github.com/renzo1031/visio-automation-skill)** — 采用 MIT 许可证的 Visio 绘图 Skill，通过 COM 自动化使用内置形状和胶合连接线创建、编辑原生可编辑图表；需在 Windows 上安装 Microsoft Visio 桌面版。
+
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — 生成高辨识度的中文手绘风格技术架构图、概念示意图与公众号/社媒封面配图。
 
 - **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** — 基于“小黑”IP 生成 16:9 极简纯白手绘配图，用夸张而具象的动作隐喻解构技术观点与职场处境。

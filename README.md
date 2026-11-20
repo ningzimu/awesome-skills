@@ -174,6 +174,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — Designs publication-grade architectural and infographic diagrams across 38 visual formats, outputting clean HTML and SVG without Mermaid templating.
 
+- **[renzo1031/visio-automation-skill](https://github.com/renzo1031/visio-automation-skill)** — An MIT-licensed skill that creates and edits native, editable Visio diagrams with built-in shapes and glued connectors through COM automation; requires Windows and Microsoft Visio desktop.
+
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — Generates distinctive Chinese hand-drawn technical illustrations, visual concept explainers, and editorial cover art.
 
 - **[helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** — Transforms abstract arguments, workplace dilemmas, and architectural concepts into minimalist hand-drawn illustrations starring the Xiaohei IP.
