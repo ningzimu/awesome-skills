@@ -84,6 +84,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — An anti-slop frontend design skill that guides agents in visual direction, landing page aesthetics, and turning design references into distinctive code.
 
+- **[jangtrinh/design-os](https://github.com/jangtrinh/design-os)** — DESIGN:OS CLI, free design skills for Claude Code, Codex and Gemini CLI that turn a plain-language UI brief into web or SwiftUI code and only mark it done after deterministic taste and accessibility gates pass; source-available (PolyForm Shield), not open source.
+
 ### Spec-Driven Development
 
 - **[github/spec-kit](https://github.com/github/spec-kit)** — GitHub's official toolkit and templates for adopting Spec-Driven Development with AI coding agents.
