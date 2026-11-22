@@ -174,6 +174,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — Designs publication-grade architectural and infographic diagrams across 38 visual formats, outputting clean HTML and SVG without Mermaid templating.
 
+- **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** — An open-source skill suite for generating UI, managing design systems, and turning Stitch designs into React or React Native components via Stitch MCP.
+
 - **[renzo1031/visio-automation-skill](https://github.com/renzo1031/visio-automation-skill)** — An MIT-licensed skill that creates and edits native, editable Visio diagrams with built-in shapes and glued connectors through COM automation; requires Windows and Microsoft Visio desktop.
 
 - **[ningzimu/handdrawn-tech-illustrations](https://github.com/ningzimu/handdrawn-tech-illustrations)** — Generates distinctive Chinese hand-drawn technical illustrations, visual concept explainers, and editorial cover art.
