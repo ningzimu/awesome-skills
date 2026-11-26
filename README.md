@@ -64,6 +64,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[sno-ai/sno-station-skills](https://github.com/sno-ai/sno-station-skills)** — Apache-2.0 skills for cross-agent review, quota-aware handoff, and evidence-based delivery; most require Sno Station, and peer review requires Linux/GNU tools plus a logged-in reviewer CLI from another vendor.
 
+- **[ateymoori/oh-my-android — android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check)** — MIT skill that lets coding agents check and drive an Android app's UI on an emulator or phone (dp-based UI tree, screenshots, dark mode, font scale, RTL) through the Oh My Android MCP server; requires the free macOS 26+ app.
+
 ### Frontend & UI
 
 - **[UI Skills](https://www.ui-skills.com/)** — A design-engineering skill catalog for UI craft, accessibility, motion, and performance, accessible to agents via CLI and MCP.
