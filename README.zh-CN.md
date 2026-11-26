@@ -86,6 +86,8 @@
 
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — 防模板化（Anti-slop）的前端设计技能，帮助 Agent 确立独特视觉风格，将参考设计转化为高审美代码。
 
+- **[jangtrinh/design-os](https://github.com/jangtrinh/design-os)** — DESIGN:OS CLI：免费的设计技能，适用于 Claude Code、Codex 和 Gemini CLI，可将自然语言的 UI 需求转化为 Web 或 SwiftUI 代码，并且只有在确定性的审美与无障碍检查通过后才标记完成；源码可见（PolyForm Shield 许可），并非开源许可。
+
 ### 规范驱动开发
 
 - **[github/spec-kit](https://github.com/github/spec-kit)** — GitHub 官方推出的规范驱动开发（SDD）工具包，通过结构化文档引导 AI 严谨交付功能。
