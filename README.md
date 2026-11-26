@@ -107,6 +107,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 - **[AIHOT](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot)** — Queries the hosted AIHOT service for Chinese-language AI news and daily briefs without an API key. External commercial use requires prior written permission. [Installation guide](https://aihot.news/aihot-skill/README.md)
 
 - **[LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** — A forkable 24/7 AI news radar featuring source quality scoring, deduplication, story clustering, a live dashboard, and agent skills for briefings.
+- **[ClearCaption](https://github.com/Andrii2203/clearcaption-youtube-transcript)** — YouTube transcripts, SRT/VTT subtitles and timestamped translation for videos, channels and playlists; works from cloud servers and as an MCP server.
 
 ## Automation & Productivity
 
