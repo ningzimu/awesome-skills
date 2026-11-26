@@ -64,7 +64,7 @@
 
 - **[sno-ai/sno-station-skills](https://github.com/sno-ai/sno-station-skills)** — 采用 Apache-2.0 许可证的跨智能体评审、额度交接与可验证交付技能集；多数需 Sno Station，评审流程还需 Linux/GNU 工具及已登录的另一厂商智能体 CLI。
 
-- **[ateymoori/oh-my-android — android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check)** — MIT 许可的技能，让编码智能体通过 Oh My Android 的 MCP Server 在模拟器或真机上检查并操作 Android 应用界面（以 dp 为单位的 UI 树、截图、深色模式、字体缩放、RTL）；需安装免费的 macOS 26+ 应用。
+- **[ateymoori/oh-my-android — android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check)** — MIT 许可的技能，让编码智能体通过 Oh My Android 的 MCP Server 在模拟器或真机上检查并操作 Android 应用界面（以 dp 为单位的 UI 树、截图、深色模式、字体缩放、RTL）；需安装免费的 macOS 26+（Apple silicon）应用及 Android SDK；控制设备需开启 Full Control，通过 MCP 读取的界面数据可能会发送给智能体的模型提供方。
 
 ### 前端与 UI
 
